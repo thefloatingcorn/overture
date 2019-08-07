@@ -2,7 +2,8 @@
 
 ## Python For Loop
 
-A script:
+Python provides a kind of easy-to-use 'For Loop'.
+Let's have a look on an example script:
 ```Python
 animals = ["Tom", "Jerry", "Meerkat", "Bird", "Dog"]
 animals_away_list = ["Jerry", "Meerkat"]
@@ -11,10 +12,10 @@ for animal in animals:
       animals.remove(animal)
 print(animals)
 ```
-Expected Output: ['Tom', 'Bird', 'Dog']
 
-
-Equivalent script:
+For the example script, the output is expected to be: ['Tom', 'Bird', 'Dog'].
+However, the actual output is: ['Tom', 'Meerkat', 'Bird', 'Dog'].
+The reason is that example script is equivalent to the following script:
 ```Python
 animals = ["Tom", "Jerry", "Meerkat", "Bird", "Dog"]
 animals_away_list = ["Jerry", "Meerkat"]
@@ -25,4 +26,3 @@ for index in range(len(animals)):
         # will skip Meerkat after removing Jerry
 print(animals)
 ```
-Actual Output: ['Tom', 'Meerkat', 'Bird', 'Dog']
