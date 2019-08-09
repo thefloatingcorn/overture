@@ -1,6 +1,9 @@
-# Coding
+# Coding Smart
 
-##recursive
+## Python Tips
+list.copy()
+
+##recursive/searching
 
 ```Python
 def getAllChildrenFromIdList(idList):
