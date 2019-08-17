@@ -2,13 +2,38 @@
 
 ## Intro
 ### 1/3
-Improve the utility of using LeetCode.
+To focus on the essential problems on LeetCode by suitably classifying.
 ### 2/3
 https://blog.csdn.net/weixin_38118016/article/details/90761111
 https://cspiration.com/leetcodeClassification
 ### 3/3
 Referring existing works, build a classification with my own understanding.
 
+## Classes
+1. method
+2. structure
+3. topic
+
+## Binary Search
+* 69\. Sqrt(x) 
+* 33\.	Search in Rotated Sorted Array
+* 278\.	First Bad Version
+* 35\.	Search Insert Position
+
+## Two Pointers
+3.	Longest Substring Without Repeating Characters 
+26.	Remove Duplicates from Sorted Array
+27.	Remove Element
+88.	Merge Sorted Array
+
+## Dynamic Programming
+* 70. Climbing Stairs   
+* 62. Unique Paths 
+* 118.	Pascal's Triangle
+* 198.	House Robber
+
+## divide and conquer
+* 53.	Maximum Subarray
 
 ## Array/List
 * 136.	Single Number
@@ -52,28 +77,6 @@ Referring existing works, build a classification with my own understanding.
 * 387.	First Unique Character in a String
 * 771.	Jewels and Stones
 
-## Binary Search
-* 69. Sqrt(x) 
-* 33.	Search in Rotated Sorted Array
-* 278.	First Bad Version
-* 35.	Search Insert Position
-
-## Two Pointers
-* 3.	Longest Substring Without Repeating Characters 
-* 26.	Remove Duplicates from Sorted Array
-* 27.	Remove Element
-* 88.	Merge Sorted Array
-
-## Dynamic Programming
-* 70. Climbing Stairs   
-* 62. Unique Paths 
-* 118.	Pascal's Triangle
-* 198.	House Robber
-
-## divide and conquer
-* 53.	Maximum Subarray  
-
-
 ## Math
 * 7.	Reverse Integer 
 * 172.	Factorial Trailing Zeroes
@@ -84,7 +87,7 @@ Referring existing works, build a classification with my own understanding.
 ## Other
 * N Sum: 1
 * stock: 121    
-* Operator+: 66, 2
+* Operator '+': 66, 2
 
 ## Unclassified
 581	Shortest Unsorted Continuous Subarray
