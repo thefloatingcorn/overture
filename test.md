@@ -1,3 +1,7 @@
 # Test
-    [//]: # (I'm comment)
-[//]: # (I'm comment)
+[>_<]:
+  a
+  b
+  c
+
+abc
