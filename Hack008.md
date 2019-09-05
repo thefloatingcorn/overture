@@ -16,14 +16,5 @@ https://www.rainyleo.com/2016/08/13/快捷键/
 <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Arrow</kbd>
 
 
-ctrl-p up
-
-ctrl-n down
-
-ctrl-f left
-
-ctrl-b right
-
-ctrl-e line tail
-
-ctrl-a line head
+* ctrl-p/n/f/b: moving curse up/down/right/left
+* ctrl-a/e: moving curse to line head/tail
