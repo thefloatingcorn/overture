@@ -28,19 +28,23 @@ Hint: items have to be sorted.
 * [26.	Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)
 * [27.	Remove Element](https://leetcode.com/problems/remove-element)
 * [88.	Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)
+
 <!-- * [283.	Move Zeroes]
 * Mid:
   * 3\.	Longest Substring Without Repeating Characters  -->
 
-### Dynamic Programming / (Recursion)
+### Dynamic Programming
 * [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs)  
 * [118.	Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)
 * [198.	House Robber](https://leetcode.com/problems/house-robber)
+
+<!-- 119 Pascal's Triangle II-->
 <!-- * Mid:
   * 62. Unique Paths  -->
 
-### Divide and Conquer
+### Divide and Conquer / (Recursion)
 * [53.	Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
+* [169.	Majority Element](https://leetcode.com/problems/majority-element)
 
 ### Greedy
 * [860. Lemonade Change](https://leetcode.com/problems/lemonade-change)
@@ -49,7 +53,6 @@ Hint: items have to be sorted.
 ## Tier II: Structures
 
 ### Array/List
-* [169.	Majority Element](https://leetcode.com/problems/majority-element)
 * [268.	Missing Number](https://leetcode.com/problems/missing-number)
 * [350.	Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)
 <!-- 136	Single Number
@@ -64,9 +67,11 @@ Hint: items have to be sorted.
 * [21.	Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)
 * [141.	Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)
 * [160.	Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists)
-<!-- * 206.	Reverse Linked List
-* 234.	Palindrome Linked List
+<!-- 206	Reverse Linked List
 237	Delete Node in a Linked List  
+83 Remove Duplicates from Sorted List -->
+
+<!--
 * Mid:
   * 19.	Remove Nth Node From End of List
   * 24.	Swap Nodes in Pairs
@@ -76,7 +81,14 @@ Hint: items have to be sorted.
 * [101.	Symmetric Tree](https://leetcode.com/problems/symmetric-tree)
 * [104.	Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)
 * [226.	Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)
-<!-- * 543.	Diameter of Binary Tree
+
+<!--
+111	Minimum Depth of Binary Tree    
+112	Path Sum  
+100 Same Tree
+107	Binary Tree Level Order Traversal II
+110	Balanced Binary Tree   
+* 543.	Diameter of Binary Tree
 * 617.	Merge Two Binary Trees
 * Binary Tree Traversal:  
 94 Inorder,  102 Level Order, 144	Preorder, 145 Postorder
@@ -88,7 +100,8 @@ Hint: items have to be sorted.
 * [14.	Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)
 * [28.	Implement strStr()](https://leetcode.com/problems/implement-strstr)
 * [58.	Length of Last Word](https://leetcode.com/problems/length-of-last-word)
-<!-- * 125.	Valid Palindrome
+
+<!--
 * 344.	Reverse String
 * 383.	Ransom Note
 * 387.	First Unique Character in a String
@@ -119,6 +132,7 @@ Hint: items have to be sorted.
 * Contains Duplicate: 217
 * stock: 121
 * '+' Operation: 66, 2
+* Palindrome: 9, 125, 234
 
 ---
 
@@ -131,8 +145,9 @@ Hint: items have to be sorted.
 
 ---
 ## Tier V: To Do List
-* Greedy: 455, 860, 874
-* D&C: 53, 169, 17, 50, 78
+* InOrderEasyOnly@: 119
+* D&C: 17, 50, 78
 * trie: 208
 * 2pointer: 11
 * Graph: 200, 547
+* Greedy: 455, 874
