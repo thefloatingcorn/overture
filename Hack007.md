@@ -97,9 +97,14 @@ Hint: items have to be sorted.
   * 538.	Convert BST to Greater Tree -->
 
 ### Char/Str
-* [14.	Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)
-* [28.	Implement strStr()](https://leetcode.com/problems/implement-strstr)
-* [58.	Length of Last Word](https://leetcode.com/problems/length-of-last-word)
+* Easy
+  * [14.	Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)
+  * [28.	Implement strStr()](https://leetcode.com/problems/implement-strstr)
+  * [58.	Length of Last Word](https://leetcode.com/problems/length-of-last-word)
+* ord() / chr()
+  * [168.	Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title)
+  * [171.	Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number)
+  * [389.	Find the Difference](https://leetcode.com/problems/find-the-difference)  
 
 <!--
 * 344.	Reverse String
@@ -108,9 +113,7 @@ Hint: items have to be sorted.
 * 771.	Jewels and Stones
 20	Valid Parentheses
 242	Valid Anagram
-* ord:
-  389	Find the Difference
-  171	Excel Sheet Column Number  -->
+  -->
 
 ### Bit
 * [190.	Reverse Bits](https://leetcode.com/problems/reverse-bits)
@@ -128,9 +131,9 @@ Hint: items have to be sorted.
 412	Fizz Buzz -->
 
 ### Other
-* N Sum: 1
+* N Sum: 1, 167
 * Contains Duplicate: 217
-* stock: 121
+* stock: 121, 122
 * '+' Operation: 66, 2
 * Palindrome: 9, 125, 234
 
@@ -145,7 +148,7 @@ Hint: items have to be sorted.
 
 ---
 ## Tier V: To Do List
-* InOrderEasyOnly@: 119
+* InOrderEasyOnly@: 168
 * D&C: 17, 50, 78
 * trie: 208
 * 2pointer: 11
