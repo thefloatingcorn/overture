@@ -1,47 +1,49 @@
 # Knowing data structure and algorithm
 
-Grokking Algorithms: An illustrated guide for programmers and other curious people
-by Aditya Y. Bhargava
-https://www.oreilly.com/library/view/grokking-algorithms-an/9781617292231/
+## Intro
+Summarising basics of data structure and algorithm, based on the book,
+[Grokking Algorithms: An illustrated guide for programmers and other curious people, by Aditya Y. Bhargava](https://www.oreilly.com/library/view/grokking-algorithms-an/9781617292231/).
 
-## pre
+## Pre
 
-### Basic concepts:
+### Basic concepts
 Big O notation: scalability
-Memory/Addressing:
+<!-- Memory/Addressing:  -->
+<!-- Reading/Insertion/Deletion -->
 
-### Data structure:
-Array
-Stack
-Queue
-Hash
-Linked List
-Trees
-Graph
+### Data structure
+Different forms of restrictions
+* Array
+* Stack
+* Queue
+* Hash
+* Linked List
+* Trees
+* Graph
+* Heap
 
-## Algorithms:
+## Algorithms
 
-Searching Problem:
-Binary search
-Breadth-first search
-Dijkstra’s algorithm
+### Searching Problem
+* Binary search
+* Breadth-first search
+* Dijkstra’s algorithm
 
-Sorting Problem:
-Selection sort
-Quick sort -> Divide & conquer
-Merge sort
+### Sorting Problem
+* Selection sort
+* Quick sort -> Divide & conquer
+* Merge sort
 
+<!-- ### Box Problem
+* Recursion -->
 
-Box Problem:
-Recursion
+### NP-complete problems
+* The classroom scheduling problem
+* The knapsack problem
+* The set-covering problem
+* The traveling salesperson
+* Greedy algorithm
+* Dynamic programming
 
-NP-complete problems
-The classroom scheduling problem
-The knapsack problem
-The set-covering problem
-The traveling salesperson
-Greedy algorithm
-Dynamic programming
-
-classification Problem:
-k-nearest neighbors
+<!-- ### Classification Problem:
+k-nearest neighbors -->
