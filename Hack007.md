@@ -38,6 +38,7 @@ Hint: items have to be sorted.
 * [118.	Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)
 * [198.	House Robber](https://leetcode.com/problems/house-robber)
 
+<!-- 204. Count Primes -->
 <!-- 119 Pascal's Triangle II-->
 <!-- * Mid:
   * 62. Unique Paths  -->
@@ -64,10 +65,14 @@ Hint: items have to be sorted.
 * [232.	Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks)
 
 ### LinkedList
-* [21.	Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)
+* [203.	Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements)
+* [206.	Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)
+
+<!-- * [21.	Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)
 * [141.	Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)
-* [160.	Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists)
-<!-- 206	Reverse Linked List
+* [160.	Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) -->
+
+<!--
 237	Delete Node in a Linked List  
 83 Remove Duplicates from Sorted List -->
 
@@ -130,6 +135,12 @@ Hint: items have to be sorted.
 <!-- * 326.	Power of Three
 412	Fizz Buzz -->
 
+### SQL
+* 175, 176, 181, 182, 183, 196, 197
+
+### BASH
+* 193, 195
+
 ### Other
 * N Sum: 1, 167
 * Contains Duplicate: 217
@@ -148,7 +159,7 @@ Hint: items have to be sorted.
 
 ---
 ## Tier V: To Do List
-* InOrderEasyOnly@: 168
+* InOrderEasyOnly@: 204
 * D&C: 17, 50, 78
 * trie: 208
 * 2pointer: 11
