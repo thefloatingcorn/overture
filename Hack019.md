@@ -1,7 +1,7 @@
 # Calculus
 
 ## Intro
-key points of Calculus are summarised as a knowledge base,
+Summarising basics of Calculus,
 based on the Calculus section at Symbolab:
 https://www.symbolab.com/practice/calculus-practice
 
