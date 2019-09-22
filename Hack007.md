@@ -112,6 +112,7 @@ Hint: items have to be sorted.
   * [389.	Find the Difference](https://leetcode.com/problems/find-the-difference)  
 
 <!--
+205. Isomorphic Strings
 * 344.	Reverse String
 * 383.	Ransom Note
 * 387.	First Unique Character in a String
@@ -159,7 +160,7 @@ Hint: items have to be sorted.
 
 ---
 ## Tier V: To Do List
-* InOrderEasyOnly@: 204
+* InOrderEasyOnly@: 205
 * D&C: 17, 50, 78
 * trie: 208
 * 2pointer: 11
