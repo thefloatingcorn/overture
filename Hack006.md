@@ -1,12 +1,13 @@
 # Software design/development pattern
 
 https://en.wikipedia.org/wiki/Software_development
-https://en.wikipedia.org/wiki/Software_engineering
+<!-- software architectural patterns -->
 
-Agile
-SCRUM
-XP
+[Agile](https://en.wikipedia.org/wiki/Agile_software_development)
 
-TDD
+[SCRUM](https://en.wikipedia.org/wiki/Scrum_(software_development))
+[XP](https://en.wikipedia.org/wiki/Extreme_programming)
 
-DevOps
+[TDD](https://en.wikipedia.org/wiki/Test-driven_development)
+
+[DevOps](https://en.wikipedia.org/wiki/DevOps)
