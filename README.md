@@ -13,6 +13,7 @@ Approach: brick by brick.
 ## Contents
 
 * Hack000: Defining Hack
+* Hack001: Mastering Markdown
 
 * Hack012: Interview Overview
   * Hack007: Classifying LeetCode
@@ -24,7 +25,6 @@ Approach: brick by brick.
 
 
 <!--
-  Hack001: Mastering Markdown -> Writing on GitHub
   Hack008: Atom Shortcuts
   Hack010: Pandas
   Hack011: Mac
