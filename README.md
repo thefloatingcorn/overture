@@ -16,12 +16,13 @@ Approach: brick by brick.
 * Hack001: Mastering Markdown
 
 * Hack012: Interview Overview
-  * Hack007: Classifying LeetCode
   * Hack004: Knowing data structure and algorithm
+  * Hack007: Classifying LeetCode
+  * Hack009: OO Programming
   * Hack019: Calculus
 <!-- Hack005: Mathematics -->
 <!-- Hack006: Software design/development pattern -->
-<!-- Hack009: OO Programming -->
+<!--  -->
 
 
 <!--
