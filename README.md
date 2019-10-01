@@ -13,7 +13,7 @@ Approach: brick by brick.
 ## Contents
 
 * Hack000: Defining Hack
-* Hack001: Mastering Markdown
+* Hack001: Markdown Syntax
 
 * Hack012: Interview Overview
   * Hack004: Knowing data structure and algorithm
@@ -22,7 +22,8 @@ Approach: brick by brick.
   * Hack019: Calculus
 <!-- Hack005: Mathematics -->
 <!-- Hack006: Software design/development pattern -->
-<!--  -->
+
+* Hack015: Regular Expression
 
 
 <!--
@@ -31,7 +32,6 @@ Approach: brick by brick.
   Hack011: Mac
   Hack013: DrawByCoding
   Hack014: GetGit
-  Hack015: RE
   Hack016: Writing Formula
   Hack017: Math Resources
   Hack018: Excel
