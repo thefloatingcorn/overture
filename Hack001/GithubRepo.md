@@ -1,4 +1,7 @@
 # Github Repositories
-Don't reinvent the wheel!
 
 https://github.com/rstacruz/cheatsheets
+
+https://github.com/EliteQuant/EliteQuant
+
+https://github.com/LongOnly/Quantitative-Notebooks
