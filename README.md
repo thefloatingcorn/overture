@@ -17,3 +17,4 @@ Approach: brick by brick.
 * Hack002: Overviews (frameworks of basic concepts)
 * Hack003: Cheatsheets
 * Hack004: Try to do a certain thing
+* Hack005: Oversimplified algorithms
