@@ -14,7 +14,7 @@ Approach: brick by brick.
 
 * Hack000: Ideas/Thoughts
 * Hack001: General Resources (e.g. sites or inside a site)
-* Hack002: Overviews (frameworks of basic concepts)
+* Hack002: Overviews/Frameworks (Definition of each basic concept in one sentence.)
 * Hack003: Cheatsheets
 * Hack004: Try to do a certain thing
 * Hack005: Oversimplified algorithms
