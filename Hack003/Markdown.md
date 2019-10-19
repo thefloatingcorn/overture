@@ -34,12 +34,12 @@ https://guides.github.com/features/mastering-markdown/
        1. Item 3a
        1. Item 3b
 
-<!-- ### Not List
-    1\. Item 1 -->
+### Not List
+    1\. Item 1
 
-<!-- ## Images
+## Images
     ![GitHub Logo](/images/logo.png)
-    Format: ![Alt Text](url) -->
+    Format: ![Alt Text](url)
 
 ## Links
 
