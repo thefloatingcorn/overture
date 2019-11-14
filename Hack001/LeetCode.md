@@ -88,6 +88,7 @@ Hint: items have to be sorted.
 * [226.	Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)
 
 <!--
+*257. Binary Tree Paths*
 111	Minimum Depth of Binary Tree    
 112	Path Sum  
 100 Same Tree
@@ -98,6 +99,7 @@ Hint: items have to be sorted.
 * Binary Tree Traversal:  
 94 Inorder,  102 Level Order, 144	Preorder, 145 Postorder
 * BST:
+  * 235. Lowest Common Ancestor of a Binary Search Tree
   * 108.	Convert Sorted Array to Binary Search Tree
   * 538.	Convert BST to Greater Tree -->
 
@@ -134,6 +136,7 @@ Hint: items have to be sorted.
 * [172.	Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes)
 * [202.	Happy Number](https://leetcode.com/problems/happy-number)
 <!-- * 326.	Power of Three
+231. Power of Two
 412	Fizz Buzz -->
 
 ### SQL
@@ -144,7 +147,7 @@ Hint: items have to be sorted.
 
 ### Other
 * N Sum: 1, 167
-* Contains Duplicate: 217
+* Contains Duplicate: 217, 219
 * stock: 121, 122
 * '+' Operation: 66, 2
 * Palindrome: 9, 125, 234
@@ -152,6 +155,7 @@ Hint: items have to be sorted.
 ---
 
 ## Tier IV: Unclassified
+* 509. Fibonacci Number
 * 581	Shortest Unsorted Continuous Subarray
 * 189	Rotate Array
 * 78	Subsets    
@@ -160,7 +164,7 @@ Hint: items have to be sorted.
 
 ---
 ## Tier V: To Do List
-* InOrderEasyOnly@: 205
+* InOrderEasyOnly@: 258
 * D&C: 17, 50, 78
 * trie: 208
 * 2pointer: 11
