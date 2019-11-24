@@ -3,8 +3,8 @@ https://www.symbolab.com/practice/calculus-practice
 
 * Limits
   * BASIC: Substitution, Infinite Limits, Divergence
-  * MODERATE: Limits at Infinity, Factoring, *Square Roots*, Rational functions
-  * ADVANCED: L'Hopital Rule, *Chain Rule*, *Squeeze Theorem*, **Advanced Limits**
+  * MODERATE: Limits at Infinity, Factoring, Square Roots, Rational functions
+  * ADVANCED: L'Hopital Rule, Chain Rule, Squeeze Theorem, Advanced Limits
 
 * Series
   * CONVERGENCE TESTS
@@ -25,20 +25,20 @@ https://www.symbolab.com/practice/calculus-practice
 
   * MODERATE: *Substitution*, **Trig Power Multiplication**, *Partial Fractions*, **Long Division**, Integration By Parts
 
-  * ADVANCED: **Advanced Substitution**, **Advanced Integration By Parts**, *Definite*
+  * ADVANCED: **Advanced Substitution**, **Advanced Integration By Parts**, Definite
 
   * Multiple Integrals: *Double*, *Triple*
 
 * Derivatives:
-  * BASIC: Constant Rule / Multiplication by Constant / Sum/Difference Rule, *Power Rule*, *Product Rule*, *Quotient Rule*
+  * BASIC: Constant Rule / Multiplication by Constant / Sum/Difference Rule, Power Rule, Product Rule, Quotient Rule
 
-  * MODERATE: *Trig Functions*, *Logarithms & Exponents*, Chain Rule
+  * MODERATE: Trig Functions, Logarithms & Exponents, Chain Rule
 
-  * ADVANCED: *Second Order*, *Higher Order*
+  * ADVANCED: Second Order, Higher Order
 
   * PARTIAL DERIVATIVES
 
-  * **IMPLICIT DERIVATIVES**
+  * *IMPLICIT DERIVATIVES*
 
 * *Derivative Applications*
 
@@ -46,7 +46,4 @@ https://www.symbolab.com/practice/calculus-practice
   * **FIRST ORDER ODE**
   * **SECOND ORDER ODE**
 
-* *Taylor/Maclaurin*
-  * Taylor series of function f(x) at a is defined as:
-  f\left(x\right)=f\left(a\right)+\frac{f^'\left(a\right)}{1!}\left(x-a\right)+\frac{f^{''}\left(a\right)}{2!}\left(x-a\right)^2+\frac{f^{'''}\left(a\right)}{3!}\left(x-a\right)^3+\ldots
-  * Maclaurin series is a Taylor series at a = 0.
+* Taylor/Maclaurin: Maclaurin series is a Taylor series at a = 0.
