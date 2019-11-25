@@ -1,4 +1,4 @@
-## Computer Science
+# Computer Science
 
 [P/NP Problem](https://en.wikipedia.org/wiki/P_versus_NP_problem#NP-completeness):
 > It asks whether every problem whose solution can be quickly verified (technically, verified in polynomial time) can also be solved quickly (again, in polynomial time).

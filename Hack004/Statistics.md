@@ -1,12 +1,23 @@
 # Statistics
 
 ## Default
+[Probability](https://en.wikipedia.org/wiki/Probability):
+> a measure quantifying the likelihood that events will occur.
+
 [Numerical analysis](https://en.wikipedia.org/wiki/Numerical_analysis):
 >  the study of algorithms that use numerical approximation (as opposed to symbolic manipulations) for the problems of mathematical analysis (as distinguished from discrete mathematics).
 
 [Monte Carlo method](https://en.wikipedia.org/wiki/Monte_Carlo_method):
 repeated random sampling
 > a broad class of computational algorithms that rely on repeated random sampling to obtain numerical results.
+
+[Standard error](https://en.wikipedia.org/wiki/Standard_error):
+reflects uncertainty in the estimate of the mean
+> ![eq](https://wikimedia.org/api/rest_v1/media/math/render/svg/f9dac77577c2717cbb973388e4d6563915705742)
+
+[z-score](https://en.wikipedia.org/wiki/Standard_score):
+normalizing standard deviations
+> ![eq](https://wikimedia.org/api/rest_v1/media/math/render/svg/5ceed701c4042bb34618535c9a902ca1a937a351)
 
 [Moment](https://en.wikipedia.org/wiki/Moment_(mathematics)):
 the shape of a function
@@ -47,7 +58,7 @@ Gaussian function / Bell curve
 > ![eq](https://wikimedia.org/api/rest_v1/media/math/render/svg/f0506065a47bd1efc86fe9aa01a1ed66c6846a02)
 
 [Binomial distribution](https://en.wikipedia.org/wiki/Binomial_distribution):
-coin flips
+only two possible outcomes (e.g. coin flips)
 > ![equation](https://wikimedia.org/api/rest_v1/media/math/render/svg/b872c2c7bfaa26b16e8a82beaf72061b48daaf8e)
 
 [Exponential distribution](https://en.wikipedia.org/wiki/Exponential_distribution):
