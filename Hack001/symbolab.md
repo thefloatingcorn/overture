@@ -1,6 +1,7 @@
-# Calculus
+# symbolab
 https://www.symbolab.com/practice/calculus-practice
 
+## Calculus
 * Limits
   * BASIC: Substitution, Infinite Limits, Divergence
   * MODERATE: Limits at Infinity, Factoring, Square Roots, Rational functions

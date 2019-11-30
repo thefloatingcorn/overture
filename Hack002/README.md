@@ -1,9 +1,9 @@
 # Frameworks
 
 ## Contents
-* Calculus
-* Data structure and algorithms
-* Interview
+* Statistics
+* Finance
+* Computer Science
 * Mathematics
 
 ## Raw
@@ -16,6 +16,25 @@ probability: objective (classic/empirical),  subjective
 variability: range, standard deviation
 percentile
 Histogram -->
+
+<!-- ### Default
+binary tree, Heap
+
+stochastic calculus
+
+Machine learning
+
+data science
+
+Newton's method
+
+Itô's lemma
+
+Itô diffusion
+
+Gamma distribution
+
+Taylor series -->
 
 ### Python Library
 NLTK

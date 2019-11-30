@@ -2,22 +2,28 @@
 
 ## Contents
 
-* Cheatsheets
-*
 * Math
 * Quant
 * LeetCode
 * quantquestions
-
+* symbolab
 
 ## Raw
 
-### GithubRepo
+### Cheatsheets
+
+https://www.symbolab.com/cheat-sheets
+
+https://www.quantquestions.com/cheatsheets/
 
 https://github.com/rstacruz/cheatsheets
 
+<!-- ### GithubRepo -->
+
 
 ### Default
+
+[Grokking Algorithms: An illustrated guide for programmers and other curious people, by Aditya Y. Bhargava](https://www.oreilly.com/library/view/grokking-algorithms-an/9781617292231/).
 
 GamesIndustry.biz
 
