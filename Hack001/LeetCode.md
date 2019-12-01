@@ -21,8 +21,10 @@ Hint: items have to be sorted.
 * [69. Sqrt(x)](https://leetcode.com/problems/sqrtx)
 * [278.	First Bad Version](https://leetcode.com/problems/first-bad-version)
 * [35.	Search Insert Position](https://leetcode.com/problems/search-insert-position)
-  <!-- * Mid:
-    * 33.	Search in Rotated Sorted Array -->
+  <!--
+  367. Valid Perfect Square
+  * Mid:
+  * 33.	Search in Rotated Sorted Array -->
 
 ### Two Pointers
 * [26.	Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)
@@ -40,8 +42,11 @@ Hint: items have to be sorted.
 
 <!-- 204. Count Primes -->
 <!-- 119 Pascal's Triangle II-->
+<!-- 674. Longest Continuous Increasing Subsequence -->
 <!-- * Mid:
-  * 62. Unique Paths  -->
+  * 62. Unique Paths 
+322. Coin Change
+-->
 
 ### Divide and Conquer / (Recursion)
 * [53.	Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
@@ -57,6 +62,7 @@ Hint: items have to be sorted.
 * [268.	Missing Number](https://leetcode.com/problems/missing-number)
 * [350.	Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)
 <!-- 136	Single Number
+349. Intersection of Two Arrays
 448	Find All Numbers Disappeared in an Array -->
 
 ### Queue/Stack
@@ -121,6 +127,7 @@ Hint: items have to be sorted.
 * 771.	Jewels and Stones
 20	Valid Parentheses
 242	Valid Anagram
+290. Word Pattern
   -->
 
 ### Bit
@@ -135,9 +142,13 @@ Hint: items have to be sorted.
 * [7.	Reverse Integer](https://leetcode.com/problems/reverse-integer)
 * [172.	Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes)
 * [202.	Happy Number](https://leetcode.com/problems/happy-number)
-<!-- * 326.	Power of Three
-231. Power of Two
-412	Fizz Buzz -->
+<!--
+412	Fizz Buzz
+258. Add Digits
+263. Ugly Number
+292. Nim Game
+
+-->
 
 ### SQL
 * 175, 176, 181, 182, 183, 196, 197
@@ -151,6 +162,7 @@ Hint: items have to be sorted.
 * stock: 121, 122
 * '+' Operation: 66, 2
 * Palindrome: 9, 125, 234
+* Power of x: 326, 231, 342
 
 ---
 
@@ -164,7 +176,7 @@ Hint: items have to be sorted.
 
 ---
 ## Tier V: To Do List
-* InOrderEasyOnly@: 258
+* InOrderEasyOnly@: 299
 * D&C: 17, 50, 78
 * trie: 208
 * 2pointer: 11
