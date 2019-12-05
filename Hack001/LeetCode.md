@@ -128,12 +128,14 @@ Hint: items have to be sorted.
 20	Valid Parentheses
 242	Valid Anagram
 290. Word Pattern
+299. Bulls and Cows
+345. Reverse Vowels of a String
   -->
 
 ### Bit
 * [190.	Reverse Bits](https://leetcode.com/problems/reverse-bits)
 * [191.	Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits)
-
+* [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers)
 ---
 
 ## Tier III: Topics
@@ -176,9 +178,11 @@ Hint: items have to be sorted.
 
 ---
 ## Tier V: To Do List
-* InOrderEasyOnly@: 299
+* InOrderEasyOnly@: 371
 * D&C: 17, 50, 78
 * trie: 208
 * 2pointer: 11
 * Graph: 200, 547
 * Greedy: 455, 874
+
+https://leetcode.com/explore/interview/card/top-interview-questions-easy/
