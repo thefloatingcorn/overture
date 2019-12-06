@@ -1,16 +1,18 @@
 # Computer Science
 
-## Basic concepts
-Big O notation: scalability
+## Default
+Big O notation: how complexity related to the input size
 <!-- Memory/Addressing:  -->
 <!-- Reading/Insertion/Deletion -->
 
-[P/NP Problem](https://en.wikipedia.org/wiki/P_versus_NP_problem#NP-completeness):
-> It asks whether every problem whose solution can be quickly verified (technically, verified in polynomial time) can also be solved quickly (again, in polynomial time).
+NP Problem: the problem can be verified (but cannot be solved) in polynomial time.
+<!-- https://en.wikipedia.org/wiki/P_versus_NP_problem#NP-completeness -->
+<!-- https://en.wikipedia.org/wiki/NP-completeness -->
 
-[binary search trees (BST)](https://en.wikipedia.org/wiki/Binary_search_tree):
-> sometimes called ordered or sorted binary trees
-> keys in sorted order, so that lookup and other operations can use the principle of binary search
+Recursion: a function calls itself
+
+Iteration: repetition of a process
+
 
 ## Data structure
 <!-- Different forms of restrictions -->
@@ -20,6 +22,8 @@ Big O notation: scalability
 * Hash
 * Linked List
 * Trees
+  * binary tree: each node has at most two children.
+  * binary search trees (BST): ordered or sorted binary trees.
 * Graph
 * Heap
 
@@ -48,3 +52,14 @@ Big O notation: scalability
 
 <!-- ### Classification Problem:
 k-nearest neighbors -->
+
+## Object-Oriented Programming
+
+### Principles
+
+* Encapsulation: keep object's state private
+* Abstraction: hide internal implementation details
+* Inheritance: reuse the parent's logics
+* Polymorphism: use a single interface to different types
+
+<!-- Overriding / Overloading -->
