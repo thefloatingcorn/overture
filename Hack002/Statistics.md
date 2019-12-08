@@ -69,6 +69,7 @@ arrival interval
 arrival rate
 > ![eq](https://wikimedia.org/api/rest_v1/media/math/render/svg/b75025fd6426768c49ec751b5327b2b996ebe221)
 
+Gamma distribution
 
 ## Process
 

@@ -1,23 +1,27 @@
 # Math
 
+## Default
+
+Sn=n*a1+n(n-1)d/2 or Sn=n(a1+an)/2
+
 Permutation/Combination:
 ![equation](https://wikimedia.org/api/rest_v1/media/math/render/svg/bcb079173c3bc6bdef55920caeefb1992c3dce73)
 
-3 sigma rule:
-1-68%, 1.65-90%, 1.96-95%, 2.58-99%, 3-99.7%
+Sum of cubes rule:
+x^3+y^3=\left(x+y\right)\left(x^2-xy+y^2\right)
 
-Log/Exp rules:
+Taylor series:
+![eq](https://wikimedia.org/api/rest_v1/media/math/render/svg/2c2f7091d7b4025fa1eb223e35acc9b18ccb9c9d)
+
+
+# Log/Exp rules
 
 a^x = e^(\ln(a^x))
 
 \log_a\left(b\right)=\frac{\ln \left(b\right)}{\ln \left(a\right)}
 
 
-Sum of cubes rule:
-x^3+y^3=\left(x+y\right)\left(x^2-xy+y^2\right)
-
-
-Trigonometry:
+## Trigonometry
 
 \sec \left(x\right)=\frac{1}{\cos \left(x\right)}
 
@@ -29,8 +33,10 @@ Trigonometry:
 
 \cos \left(2x\right)=\cos ^2\left(x\right)-\sin ^2\left(x\right)
 
+\tan \left(2x\right)=\frac{2\tan \left(x\right)}{1-\tan ^2\left(x\right)}
 
-Derivatives/Integrals:
+
+## Derivatives/Integrals
 
 \frac{d}{dx}\left(\tan \left(x\right)\right)=\sec ^2\left(x\right)
 
@@ -39,6 +45,3 @@ Derivatives/Integrals:
 \int \frac{1}{s}ds=\ln \left(\left|s\right|\right)
 
 \int \sec \left(x\right)dx=\ln \left|\tan \left(x\right)+\sec \left(x\right)\right|
-
-Taylor series:
-![eq](https://wikimedia.org/api/rest_v1/media/math/render/svg/2c2f7091d7b4025fa1eb223e35acc9b18ccb9c9d)

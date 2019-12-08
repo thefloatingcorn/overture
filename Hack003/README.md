@@ -9,16 +9,20 @@
 * SQL
 
 ## Raw
+
 ### Default
 
-<!-- Pandas: set_index
+Pandas: set_index
 
-variable name: letters, digits, underscore
+### statistics
 
-### Math -->
+3 sigma rule:
+1-68%, 1.65-90%, 1.96-95%, 2.58-99%, 3-99.7%
 
-<!-- \tan \left(2x\right)=\frac{2\tan \left(x\right)}{1-\tan ^2\left(x\right)} -->
+center: Mean, median, mode
 
-<!-- Sn=n*a1+n(n-1)d/2 or Sn=n(a1+an)/2 -->
+variability: range, standard deviation
 
-<!-- Squeeze Theorem: -->
+percentile
+
+Histogram

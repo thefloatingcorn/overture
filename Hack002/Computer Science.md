@@ -9,9 +9,17 @@ NP Problem: the problem can be verified (but cannot be solved) in polynomial tim
 <!-- https://en.wikipedia.org/wiki/P_versus_NP_problem#NP-completeness -->
 <!-- https://en.wikipedia.org/wiki/NP-completeness -->
 
-Recursion: a function calls itself
+Recursion vs Iteration:
+a function calls itself;
+repetition of a process.
 
-Iteration: repetition of a process
+Pointer vs Reference:
+a variable that holds memory address of another variable;
+an alias for an already existing variable.
+<!-- https://www.geeksforgeeks.org/pointers-vs-references-cpp/ -->
+
+"passed by reference" vs "passed by value": if the caller and the callee use the same variable
+<!-- https://stackoverflow.com/questions/373419/whats-the-difference-between-passing-by-reference-vs-passing-by-value -->
 
 
 ## Data structure
@@ -26,6 +34,7 @@ Iteration: repetition of a process
   * binary search trees (BST): ordered or sorted binary trees.
 * Graph
 * Heap
+
 
 ## Algorithms
 
