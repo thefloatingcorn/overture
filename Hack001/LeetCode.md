@@ -71,6 +71,7 @@ Hint: items have to be sorted.
 * [232.	Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks)
 
 ### LinkedList
+* [237.	Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list)
 * [203.	Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements)
 * [206.	Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)
 
@@ -79,7 +80,6 @@ Hint: items have to be sorted.
 * [160.	Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) -->
 
 <!--
-237	Delete Node in a Linked List  
 83 Remove Duplicates from Sorted List -->
 
 <!--

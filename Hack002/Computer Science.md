@@ -21,6 +21,7 @@ an alias for an already existing variable.
 "passed by reference" vs "passed by value": if the caller and the callee use the same variable
 <!-- https://stackoverflow.com/questions/373419/whats-the-difference-between-passing-by-reference-vs-passing-by-value -->
 
+<!-- multithreading -->
 
 ## Data structure
 <!-- Different forms of restrictions -->
@@ -64,11 +65,24 @@ k-nearest neighbors -->
 
 ## Object-Oriented Programming
 
+### Default
+
+Overriding: replace a method from superclass; (Dynamic polymorphism?)
+Overloading: (Static polymorphism?)
+
+Interfaces: represent a capability
+Abstract Class: represent a type
+<!-- concrete class -->
+
+Inheritance vs Aggregation vs Composition: "is a" / "has a" (a collection of objects) / "owns a"
+
+<!-- Virtual function:  -->
+
+
+
 ### Principles
 
 * Encapsulation: keep object's state private
 * Abstraction: hide internal implementation details
 * Inheritance: reuse the parent's logics
 * Polymorphism: use a single interface to different types
-
-<!-- Overriding / Overloading -->

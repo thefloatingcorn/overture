@@ -57,3 +57,10 @@ https://guides.github.com/features/mastering-markdown/
 
     I think you should use an
     `<addr>` element here instead.
+
+## Multiple lines of code
+
+    ```Python
+    for animal in animals:
+      print(animal)
+    ```
