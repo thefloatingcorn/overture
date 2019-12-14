@@ -89,9 +89,12 @@ Hint: items have to be sorted.
   * 328.	Odd Even Linked List -->
 
 ### Tree
-* [101.	Symmetric Tree](https://leetcode.com/problems/symmetric-tree)
 * [104.	Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)
+* [101.	Symmetric Tree](https://leetcode.com/problems/symmetric-tree)
 * [226.	Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)
+
+* Binary Tree Traversal:
+  * 94 Inorder, 102 Level Order, 144 Preorder, 145 Postorder
 
 <!--
 *257. Binary Tree Paths*
@@ -102,8 +105,7 @@ Hint: items have to be sorted.
 110	Balanced Binary Tree   
 * 543.	Diameter of Binary Tree
 * 617.	Merge Two Binary Trees
-* Binary Tree Traversal:  
-94 Inorder,  102 Level Order, 144	Preorder, 145 Postorder
+
 * BST:
   * 235. Lowest Common Ancestor of a Binary Search Tree
   * 108.	Convert Sorted Array to Binary Search Tree
