@@ -6,23 +6,24 @@ https://mincongzhang.gitbooks.io
 
 [Grokking Algorithms: An illustrated guide for programmers and other curious people, by Aditya Y. Bhargava](https://www.oreilly.com/library/view/grokking-algorithms-an/9781617292231/).
 
-https://kite.com/download/
-
 
 ## Websites
 
-https://www.freecodecamp.org
+* Reference:
+  * https://www.w3schools.com
+  * https://www.runoob.com
 
-https://www.runoob.com
+* Learning
+  * https://www.geeksforgeeks.org/
+  * https://www.freecodecamp.org
 
-https://www.geeksforgeeks.org/
+* Problem solving
+  * https://leetcode.com
+  * https://www.hackerrank.com
+  * https://www.interviewcake.com
+  * https://www.interviewbit.com
 
-Other: Interview Cake, interviewbit, careercup
-
-
-## Online IDE
-
-http://pythonfiddle.com
+* Online IDE: http://pythonfiddle.com
 
 
 ## Articles
@@ -36,3 +37,10 @@ https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7
 https://leetcode.com/problems/house-robber/discuss/156523/From-good-to-great.-How-to-approach-most-of-DP-problems
 
 <!-- http://yangcongchufang.com/高级python编程基础/python-object-class.html -->
+
+
+## Tools
+
+IDE: Komodo
+
+Plugin: Kite
