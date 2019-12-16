@@ -30,9 +30,8 @@ https://guides.github.com/features/mastering-markdown/
 
     1. Item 1
     1. Item 2
-    1. Item 3
-       1. Item 3a
-       1. Item 3b
+       1. Item 2a
+       1. Item 2b
 
 ### Not List
     1\. Item 1
@@ -64,3 +63,14 @@ https://guides.github.com/features/mastering-markdown/
     for animal in animals:
       print(animal)
     ```
+
+## Table
+
+    Header1 | Header2
+    ------- | -------
+    Content11 | Content21
+    Content12 | Content22
+
+## Line Seperation
+
+    ---

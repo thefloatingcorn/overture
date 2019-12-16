@@ -2,20 +2,23 @@
 http://www.runoob.com/regexp/regexp-syntax.html
 
 ## Methods
-Method | Argument(s)
+Method | Description
 ---|---
-re.match |
-re.search |
-re.sub |
-re.findall |
+re.match | match from the beginning
+re.search | search the first matched substring
+re.sub | replace the matched substring
+
+<!-- re.findall |  -->
 
 ## Patterns
 
 Pattern | Description
 ---|---
-. | all except
-\* | 0 or more
-\w | letters, digits, underscore
+. | any character except line break
+[...] | listing characters
+* | 0 or more
++ | 1 or more
+\w | '[A-Za-z0-9_]'
 
 
 ## Examples
