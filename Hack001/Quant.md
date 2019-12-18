@@ -1,6 +1,9 @@
 # Quant Resources
 
 ## Default
+
+Data API: https://www.alphavantage.co
+
 Data source: FRED, TRACE, MSRB; EDGAR, WSJ News Archive
 
 ## Notes
