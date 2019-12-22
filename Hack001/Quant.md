@@ -20,3 +20,7 @@ https://www.quantquestions.com
 https://quantiacs.com
 
 https://www.investopedia.com
+
+https://www.ft.com
+
+https://www.efinancialcareers.co.uk
