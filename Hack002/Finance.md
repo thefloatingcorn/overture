@@ -2,6 +2,10 @@
 
 ## Default
 
+[Front Office](https://www.investopedia.com/terms/f/frontoffice.asp)
+
+[Back Office](https://www.investopedia.com/terms/b/backoffice.asp)
+
 [X-Value Adjustment (XVA, xVA)](https://en.wikipedia.org/wiki/XVA):
 > a generic term referring collectively to a number of different “Valuation Adjustments” in relation to derivative instruments held by banks. The purpose of these is twofold: primarily to hedge for possible losses due to counterparty default; but also, to determine (and hedge) the amount of capital required under Basel III.
 
