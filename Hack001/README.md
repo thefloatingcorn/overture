@@ -16,6 +16,10 @@
 
 GamesIndustry.biz
 
+https://www.careercup.com: Interview Questions
+
+Freelance: https://www.fiverr.com
+
 
 ### General learning
 
@@ -25,6 +29,8 @@ https://www.udemy.com
 
 
 ### Cheatsheets
+
+https://mas-dse.github.io/DSE200/cheat_sheets/
 
 https://www.symbolab.com/cheat-sheets
 
