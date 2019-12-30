@@ -9,6 +9,13 @@ https://mincongzhang.gitbooks.io
 
 ## Websites
 
+* Game:
+  * https://awesomeopensource.com/projects/unreal-engine-4
+  * https://www.packtpub.com/gb/game-development/beginning-c-20-game-programming-second-edition
+  * http://gamecodeschool.com
+  * https://www.tomlooman.com
+  * https://www.tomlooman.com/survival-sample-game-for-ue4/
+
 * Reference:
   * https://www.w3schools.com
   * https://www.runoob.com
@@ -25,8 +32,16 @@ https://mincongzhang.gitbooks.io
 
 * Online IDE: http://pythonfiddle.com
 
+## Debug
+
+https://en.sfml-dev.org/forums/index.php?topic=24677.0
+
 
 ## Articles
+
+https://blog.csdn.net/Jerry_1126/article/details/78504927
+
+https://gamedev.stackexchange.com/questions/496/how-can-i-get-involved-with-open-source-game-projects
 
 https://www.khanacademy.org/computing/computer-science/algorithms
 
