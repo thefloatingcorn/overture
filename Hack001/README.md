@@ -23,6 +23,8 @@ Freelance: https://www.fiverr.com
 
 ### General learning
 
+https://www.educative.io/
+
 https://www.khanacademy.org
 
 https://www.udemy.com

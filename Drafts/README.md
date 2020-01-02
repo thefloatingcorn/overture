@@ -1,9 +1,12 @@
-# Raw
+# Drafts
 
-## Oversimplification
-<!-- algorithms/programs -->
-Sorting Algorithms
+## Contents
 
-## Try to do something
-### Writing Comments
-https://realpython.com/python-comments-guide/
+* Algorithms
+<!-- /programs -->
+
+## Raw
+### Try to do something
+Writing Comments: https://realpython.com/python-comments-guide/
+
+<!-- ### Default -->

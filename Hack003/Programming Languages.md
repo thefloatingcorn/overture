@@ -59,6 +59,14 @@ Arguments list: \*args
 
 Keyword arguments: \**args
 
+float("inf"), float("-inf")
+
+list: extend()
+
+set: add(), update()
+
+timeit
+
 
 ### Standard modules:
 sys, os, random, datetime, calendar, shutil, urllib, json, html, xml, platform, decimal
@@ -99,3 +107,6 @@ long = 2 * short, double = 2 * float, long double = 2 * double
 \#define VALUE 10
 
 static, extern
+
+<!-- ## C++
+map, vector -->
