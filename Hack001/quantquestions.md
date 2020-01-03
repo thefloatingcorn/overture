@@ -1,4 +1,4 @@
-# quantquestions
+# QuantQuestions
 
 https://www.quantquestions.com/questions/explore/#
 
@@ -16,6 +16,7 @@ https://www.quantquestions.com/questions/explore/#
 * **43. Aces in Bridge**
 * *63. Based and Unbiased Coin*
 * *6. Mental Math 2-Digit Squared*
+
 * 5. First Ace
 * 11. Sum 1 to 100
 * 31. Forty Heads
@@ -40,6 +41,7 @@ https://www.quantquestions.com/questions/explore/#
 * *82. Virtual Function Overridden*
 * *140. Power of X to the Y*
 * *162. Where vs Having*
+
 * 166. Ex Post Maximum Profit
 * 3. Fibonacci
 * 35. UNION vs UNION ALL
@@ -50,11 +52,13 @@ https://www.quantquestions.com/questions/explore/#
 
 ## Law of total probability
 * ***28. Rolling Dice I***
+
 * 169. Two Dice with Die 1 Greater Die 2
 
 
 ## Bayes
 * *103. Hit and Run Taxi*
+
 * 1. Two Drawers with Black and White Balls
 * 7. One Unfair and One Fair Coin
 * 54. One Unfair and 999 Fair Coins
@@ -68,6 +72,7 @@ https://www.quantquestions.com/questions/explore/#
 * *129. Division by Nine*
 * *105. Pair of Cards*
 * *108. Rolling Dice VI*
+
 * 77. Rolling Dice III
 * 13. Broken Stick Problem
 * 21. Two Aces
@@ -112,6 +117,7 @@ https://www.quantquestions.com/questions/explore/#
 * *136. Taylor Expansion of e to the X*
 * *27. Powers of e and pi*
 * *12. Derivative X to the X*
+
 * 48. Sum 1 to 100 Odds
 * 44. Infinite Powers of X
 * 46. ODE I
@@ -136,6 +142,7 @@ https://www.quantquestions.com/questions/explore/#
 * *114. Zeros in 1000 Factorial*
 * *15. Horse Race*
 * *123. Box Packing*
+
 * 9. Bridge and Flashlight
 * 26. Clock Angle at 9:30
 * 33. Ten Unit Cube and Unit Cube External

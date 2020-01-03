@@ -2,6 +2,9 @@
 
 ## Default
 
+[exchange-traded fund (ETF)](https://en.wikipedia.org/wiki/Exchange-traded_fund):
+> an investment fund traded on stock exchanges.
+
 [Front Office](https://www.investopedia.com/terms/f/frontoffice.asp)
 
 [Back Office](https://www.investopedia.com/terms/b/backoffice.asp)

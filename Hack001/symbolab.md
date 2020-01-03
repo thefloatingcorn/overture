@@ -1,4 +1,4 @@
-# symbolab
+# Symbolab
 https://www.symbolab.com/practice/calculus-practice
 
 ## Calculus
