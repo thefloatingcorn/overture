@@ -67,6 +67,9 @@ set: add(), update()
 
 timeit
 
+### Tips
+
+* range() only support integer step: e.g. range(0,1,0.1) is invalid.
 
 ### Standard modules:
 sys, os, random, datetime, calendar, shutil, urllib, json, html, xml, platform, decimal
