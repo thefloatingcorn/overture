@@ -2,10 +2,30 @@
 
 ## Default
 
-Game: Uplink, Capitalism
+Competition: Ludum Dare
 
-http://www.gamesindustry.biz
+Game: Uplink, Capitalism, Kubifaktorium
 
+* https://awesomeopensource.com/projects/unreal-engine-4
+* https://www.tomlooman.com/survival-sample-game-for-ue4/
+* https://www.packtpub.com/gb/game-development/beginning-c-20-game-programming-second-edition
+
+
+### Websites
+* http://www.gamesindustry.biz
+* https://gradsingames.com
+* https://ukie.org.uk
+* https://gamesmap.uk/
+* http://games.london
+* http://gamecodeschool.com
+* https://www.tomlooman.com
+
+### Articles
+* https://www.gamesindustry.biz/articles/2019-04-11-revealed-the-most-successful-uk-game-developers
+
+### Unity
+* https://learn.unity.com/tutorials
+* https://learn.unity.com/project/tanks-tutorial
 
 ## Unreal Engine
 

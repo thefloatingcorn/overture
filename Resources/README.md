@@ -17,8 +17,14 @@
 
 ### Default
 
+https://beta.companieshouse.gov.uk
+
 Freelance: https://www.fiverr.com
 
+https://www.crunchbase.com
+: a platform for finding business information about private and public companies
+
+Article: https://www.investopedia.com/articles/personal-finance/102015/series-b-c-funding-what-it-all-means-and-how-it-works.asp
 
 ### General learning
 
@@ -50,5 +56,6 @@ https://www.careercup.com
 
 https://stackoverflow.com/jobs/companies/quantcast
 
+https://www.totaljobs.com/insidejob/5-rookie-mistakes-avoid-job-searching
 
 <!-- ### GithubRepo -->

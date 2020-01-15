@@ -9,13 +9,6 @@ https://mincongzhang.gitbooks.io
 
 ## Websites
 
-* Game:
-  * https://awesomeopensource.com/projects/unreal-engine-4
-  * https://www.packtpub.com/gb/game-development/beginning-c-20-game-programming-second-edition
-  * http://gamecodeschool.com
-  * https://www.tomlooman.com
-  * https://www.tomlooman.com/survival-sample-game-for-ue4/
-
 * Reference:
   * https://www.w3schools.com
   * https://www.runoob.com
@@ -39,6 +32,8 @@ https://en.sfml-dev.org/forums/index.php?topic=24677.0
 
 ## Articles
 
+Python References?: https://hbfs.wordpress.com/2011/06/14/python-references-vs-c-and-c/
+
 https://blog.csdn.net/Jerry_1126/article/details/78504927
 
 https://gamedev.stackexchange.com/questions/496/how-can-i-get-involved-with-open-source-game-projects
@@ -56,6 +51,6 @@ https://leetcode.com/problems/house-robber/discuss/156523/From-good-to-great.-Ho
 
 ## Tools
 
-IDE: Komodo
-
-Plugin: Kite
+* Komodo Edit: a free and open source text editor for dynamic programming languages.
+* Selenium: a portable framework for testing web applications.
+* Plugin: Kite, Codota

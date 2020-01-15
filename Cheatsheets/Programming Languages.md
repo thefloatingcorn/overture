@@ -67,6 +67,8 @@ set: add(), update()
 
 timeit
 
+{}.fromkeys()
+
 ### Tips
 
 * range() only support integer step: e.g. range(0,1,0.1) is invalid.
