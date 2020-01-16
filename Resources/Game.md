@@ -2,14 +2,20 @@
 
 ## Default
 
-Competition: Ludum Dare
-
-Game: Uplink, Capitalism, Kubifaktorium
+* Events:
+  * https://globalgamejam.org
+  * Ludum Dare Competition
 
 * https://awesomeopensource.com/projects/unreal-engine-4
 * https://www.tomlooman.com/survival-sample-game-for-ue4/
 * https://www.packtpub.com/gb/game-development/beginning-c-20-game-programming-second-edition
 
+### Games
+
+Uplink
+
+#### Business/economic simulation games
+Capitalism, Kubifaktorium
 
 ### Websites
 * http://www.gamesindustry.biz

@@ -16,6 +16,8 @@ https://github.com/LongOnly/Quantitative-Notebooks
 
 ## Website
 
+https://quant.meta.stackexchange.com
+
 https://www.quantquestions.com
 
 https://quantiacs.com
