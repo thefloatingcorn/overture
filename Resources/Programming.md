@@ -32,6 +32,8 @@ https://en.sfml-dev.org/forums/index.php?topic=24677.0
 
 ## Articles
 
+https://www.softwaretestingmaterial.com/software-testing/
+
 Python References?: https://hbfs.wordpress.com/2011/06/14/python-references-vs-c-and-c/
 
 https://blog.csdn.net/Jerry_1126/article/details/78504927
