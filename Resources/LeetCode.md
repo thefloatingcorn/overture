@@ -18,9 +18,12 @@ https://cspiration.com/leetcodeClassification
 
 ### Binary Search:
 Hint: items have to be sorted.
-* [69. Sqrt(x)](https://leetcode.com/problems/sqrtx)
-* [278.	First Bad Version](https://leetcode.com/problems/first-bad-version)
-* [35.	Search Insert Position](https://leetcode.com/problems/search-insert-position)
+* Easy:
+  * [69. Sqrt(x)](https://leetcode.com/problems/sqrtx)
+  * [278.	First Bad Version](https://leetcode.com/problems/first-bad-version)
+  * [35.	Search Insert Position](https://leetcode.com/problems/search-insert-position)
+* Mid:
+  * [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)
   <!--
   367. Valid Perfect Square
   * Mid:
