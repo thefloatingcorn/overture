@@ -4,8 +4,11 @@
 
 Sn=n*a1+n(n-1)d/2 or Sn=n(a1+an)/2
 
+Normal Distribution PDF: 
+![eq](https://wikimedia.org/api/rest_v1/media/math/render/svg/a45cef4ca1e2fcd4d367ecff5806d8a2878d3821)
+
 Permutation/Combination:
-![equation](https://wikimedia.org/api/rest_v1/media/math/render/svg/bcb079173c3bc6bdef55920caeefb1992c3dce73)
+![eq](https://wikimedia.org/api/rest_v1/media/math/render/svg/bcb079173c3bc6bdef55920caeefb1992c3dce73)
 
 Sum of cubes rule:
 x^3+y^3=\left(x+y\right)\left(x^2-xy+y^2\right)
