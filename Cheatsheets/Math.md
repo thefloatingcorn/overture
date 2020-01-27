@@ -2,16 +2,18 @@
 
 ## Default
 
-Sn=n*a1+n(n-1)d/2 or Sn=n(a1+an)/2
+<!-- Sn=n*a1+n(n-1)d/2 or Sn=n(a1+an)/2 -->
 
-Normal Distribution PDF: 
+Normal Distribution PDF:
 ![eq](https://wikimedia.org/api/rest_v1/media/math/render/svg/a45cef4ca1e2fcd4d367ecff5806d8a2878d3821)
 
 Permutation/Combination:
 ![eq](https://wikimedia.org/api/rest_v1/media/math/render/svg/bcb079173c3bc6bdef55920caeefb1992c3dce73)
 
-Sum of cubes rule:
-x^3+y^3=\left(x+y\right)\left(x^2-xy+y^2\right)
+Binomial Formula:
+![eq](https://wikimedia.org/api/rest_v1/media/math/render/svg/689f5d27fa52a8ff3f89bed50e7d6625d5c35aaa)
+<!-- Sum of cubes rule:
+x^3+y^3=\left(x+y\right)\left(x^2-xy+y^2\right) -->
 
 Taylor series:
 ![eq](https://wikimedia.org/api/rest_v1/media/math/render/svg/2c2f7091d7b4025fa1eb223e35acc9b18ccb9c9d)
