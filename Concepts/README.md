@@ -12,6 +12,8 @@
 
 probability: objective (classic/empirical),  subjective
 
+Linear algebra: determinant, eigenvalue
+
 stochastic calculus:
 Itô's lemma,
 Itô diffusion.
