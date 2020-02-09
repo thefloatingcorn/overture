@@ -32,6 +32,7 @@ Capitalism, Kubifaktorium
 ### Unity
 * https://learn.unity.com
 * https://learn.unity.com/project/tanks-tutorial
+* https://unity.com/fps-sample
 
 ## Unreal Engine
 
@@ -56,6 +57,8 @@ https://docs.unrealengine.com/en-US/Programming/Introduction/index.html
 https://forums.unrealengine.com/development-discussion/c-gameplay-programming/120625-basic-c-tutorial-problem-with-undefined-identifiers
 
 https://forums.unrealengine.com/development-discussion/c-gameplay-programming/1473612-can-t-cast-to-uscenecomponent
+
+https://forums.unrealengine.com/community/general-discussion/119897-macos-metal-and-xcode-message
 
 
 ### Example Projects
