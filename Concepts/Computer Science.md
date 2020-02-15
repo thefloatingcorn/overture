@@ -67,8 +67,8 @@ k-nearest neighbors -->
 
 ### Default
 
-Overriding: replace a method from superclass; (Dynamic polymorphism?)
-Overloading: (Static polymorphism?)
+Overriding: replace a method from superclass; run-time polymorphism (Dynamic polymorphism?)
+Overloading: compile-time polymorphism (Static polymorphism?)
 
 Interfaces: represent a capability
 Abstract Class: represent a type
