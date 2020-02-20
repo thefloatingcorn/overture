@@ -12,7 +12,11 @@
 
 ### Default
 
+null character: \0
+
 Pandas: set_index
+
+differential equations:
 
 NumPy:
 * array vs list
