@@ -17,38 +17,61 @@ https://cspiration.com/leetcodeClassification
 ## Tier I: Methods
 
 ### Binary Search:
-Hint: items have to be sorted.
+Hint:
+* items have to be sorted.
+* runtime complexity in the order of O(log n)
+
 * Easy:
-  * [69. Sqrt(x)](https://leetcode.com/problems/sqrtx)
   * [278.	First Bad Version](https://leetcode.com/problems/first-bad-version)
-  * [35.	Search Insert Position](https://leetcode.com/problems/search-insert-position)
+  * [69. Sqrt(x)](https://leetcode.com/problems/sqrtx)
+  * [35. Search Insert Position](https://leetcode.com/problems/search-insert-position)
 * Mid:
-  * [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)
+  * [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)
+  * [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)  
+  * [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)
+* Hard:
+  * [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)
   <!--
   367. Valid Perfect Square
   * Mid:
-  * 33.	Search in Rotated Sorted Array -->
+   -->
 
 ### Two Pointers
-* [26.	Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)
-* [27.	Remove Element](https://leetcode.com/problems/remove-element)
-* [88.	Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)
+Hint: in-place
+* Easy:
+  * [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)
+  * [27. Remove Element](https://leetcode.com/problems/remove-element)
+  * [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)
+* Hard:
+  * [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)
 
 <!-- * [283.	Move Zeroes]
+[443. String Compression]
 * Mid:
-  * 3\.	Longest Substring Without Repeating Characters  -->
+
+
+Sliding Window:
+* Mid:
+  * 209. Minimum Size Subarray Sum
+  * 3\.	Longest Substring Without Repeating Characters 
+  -->
 
 ### Dynamic Programming
-* [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs)  
-* [118.	Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)
-* [198.	House Robber](https://leetcode.com/problems/house-robber)
-
+Hint: how many possible ways.
+* Easy:
+  * [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs)  
+  * [118.	Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)
+  * [198.	House Robber](https://leetcode.com/problems/house-robber)
+* Mid:
+  * [62. Unique Paths](https://leetcode.com/problems/unique-paths)
+  * [322. Coin Change](https://leetcode.com/problems/coin-change)
+  * [688. Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard)
 <!-- 204. Count Primes -->
 <!-- 119 Pascal's Triangle II-->
 <!-- 674. Longest Continuous Increasing Subsequence -->
-<!-- * Mid:
-  * 62. Unique Paths 
-322. Coin Change
+<!--
+
+
 -->
 
 ### Divide and Conquer / (Recursion)
@@ -135,6 +158,9 @@ Hint: items have to be sorted.
 290. Word Pattern
 299. Bulls and Cows
 345. Reverse Vowels of a String
+Mid:
+49. Group Anagrams
+166. Fraction to Recurring Decimal
   -->
 
 ### Bit
@@ -150,11 +176,12 @@ Hint: items have to be sorted.
 * [172.	Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes)
 * [202.	Happy Number](https://leetcode.com/problems/happy-number)
 <!--
-412	Fizz Buzz
+412.	Fizz Buzz
 258. Add Digits
 263. Ugly Number
 292. Nim Game
-
+Mid:
+592. Fraction Addition and Subtraction
 -->
 
 ### SQL
@@ -170,7 +197,8 @@ Hint: items have to be sorted.
 * '+' Operation: 66, 2
 * Palindrome: 9, 125, 234
 * Power of x: 326, 231, 342
-
+* Sort: 215
+* Design data structure: 706
 ---
 
 ## Tier IV: Unclassified
