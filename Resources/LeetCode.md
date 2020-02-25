@@ -199,6 +199,7 @@ Mid:
 * Power of x: 326, 231, 342
 * Sort: 215
 * Design data structure: 706
+* DFS: 200,
 ---
 
 ## Tier IV: Unclassified
@@ -207,7 +208,7 @@ Mid:
 * 189	Rotate Array
 * 78	Subsets    
 * 90	Subsets II  
-
+* 134. Gas Station
 
 ---
 ## Tier V: To Do List
