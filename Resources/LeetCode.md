@@ -209,6 +209,7 @@ Mid:
 * 78	Subsets    
 * 90	Subsets II  
 * 134. Gas Station
+* 50. Pow(x, n)
 
 ---
 ## Tier V: To Do List
