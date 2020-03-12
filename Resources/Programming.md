@@ -2,8 +2,6 @@
 
 ## Default
 
-https://mincongzhang.gitbooks.io
-
 [Grokking Algorithms: An illustrated guide for programmers and other curious people, by Aditya Y. Bhargava](https://www.oreilly.com/library/view/grokking-algorithms-an/9781617292231/).
 
 
@@ -22,6 +20,11 @@ https://mincongzhang.gitbooks.io
   * https://www.hackerrank.com
   * https://www.interviewcake.com
   * https://www.interviewbit.com
+
+* Blog
+  * https://mincongzhang.gitbooks.io
+  * http://fuxuemingzhu.cn/
+
 
 * Online IDE: http://pythonfiddle.com
 
