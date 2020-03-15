@@ -6,6 +6,8 @@
   * https://globalgamejam.org
   * Ludum Dare Competition
 
+Music: Bosca Ceoil, LMMS, Ableton, FL Studio
+
 * https://awesomeopensource.com/projects/unreal-engine-4
 * https://www.tomlooman.com/survival-sample-game-for-ue4/
 * https://www.packtpub.com/gb/game-development/beginning-c-20-game-programming-second-edition
