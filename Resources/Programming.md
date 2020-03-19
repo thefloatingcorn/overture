@@ -35,6 +35,8 @@ https://en.sfml-dev.org/forums/index.php?topic=24677.0
 
 ## Articles
 
+https://medium.com/@aozturk/simple-hash-map-hash-table-implementation-in-c-931965904250
+
 https://www.softwaretestingmaterial.com/software-testing/
 
 Python References?: https://hbfs.wordpress.com/2011/06/14/python-references-vs-c-and-c/
