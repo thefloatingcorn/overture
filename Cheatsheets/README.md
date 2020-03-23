@@ -9,10 +9,10 @@
 * SQL
 
 ## Raw
-
+   
 ### Default
 
-null character: \0
+\0 is null character
 
 Pandas: set_index
 
