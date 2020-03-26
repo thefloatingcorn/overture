@@ -10,6 +10,10 @@ Language: https://concurnas.com/index.html
 
 Data source: FRED, TRACE, MSRB; EDGAR, WSJ News Archive
 
+## Articles
+
+https://news.efinancialcareers.com/uk-en/3003294/banking-jobs-coronavirus
+
 ## Notes
 
 https://github.com/EliteQuant/EliteQuant
