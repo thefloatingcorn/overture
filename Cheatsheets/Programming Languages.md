@@ -103,6 +103,8 @@ Exception: ValueError, TypeError
 
 ## C
 
+No string type
+
 short int: 2 or 4 bytes (default signed)
 
 float: 4 bytes
