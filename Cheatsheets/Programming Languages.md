@@ -31,6 +31,11 @@ Multiple Inheritance: Python, C++
 ### String
 * Python: 'xxx', "xxx"
 
+### Length
+* Python: len(A)
+* Java: A.length; aString.length()
+* C++: A.size()
+
 ### Float Calculation
 * Python: 3 / 2 (=1.5); 0.1+0.1-0.2 (!=0)
 
