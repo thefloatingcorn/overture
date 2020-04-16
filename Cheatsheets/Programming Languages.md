@@ -122,3 +122,9 @@ static, extern
 
 <!-- ## C++
 map, vector -->
+
+## C\#
+
+type: int, float, char, string, bool
+
+Console.WriteLine("Hello World!");
