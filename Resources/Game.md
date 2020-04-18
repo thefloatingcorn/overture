@@ -33,8 +33,14 @@ Capitalism, Kubifaktorium
 
 ## Unity Engine
 * https://learn.unity.com
-* https://learn.unity.com/project/tanks-tutorial
 * https://unity.com/fps-sample
+* https://learn.unity.com/project/tanks-tutorial
+* https://learn.unity.com/project/unit-1-driving-simulation
+* https://learn.unity.com/project/unit-2-basic-gameplay
+* https://learn.unity.com/project/unit-3-sound-and-effects
+* https://learn.unity.com/project/unit-4-gameplay-mechanics
+* https://learn.unity.com/project/unit-5-user-interface
+
 
 ## Unreal Engine
 
