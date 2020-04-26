@@ -64,8 +64,6 @@ Arguments list: \*args
 
 Keyword arguments: \**args
 
-float("inf"), float("-inf")
-
 list: extend()
 
 set: add(), update()
