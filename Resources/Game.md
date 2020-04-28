@@ -30,6 +30,8 @@ Capitalism, Kubifaktorium
 
 ### Articles
 * https://www.gamesindustry.biz/articles/2019-04-11-revealed-the-most-successful-uk-game-developers
+* https://medium.com/ironequal/unity-character-controller-vs-rigidbody-a1e243591483
+
 
 ## Unity Engine
 * https://docs.unity3d.com/ScriptReference/index.html
