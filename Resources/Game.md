@@ -32,6 +32,7 @@ Capitalism, Kubifaktorium
 * https://www.gamesindustry.biz/articles/2019-04-11-revealed-the-most-successful-uk-game-developers
 * https://medium.com/ironequal/unity-character-controller-vs-rigidbody-a1e243591483
 * https://medium.com/@johntucker_48673/unity-update-versus-fixedupdate-7a4d4d7bc1f5
+* https://forum.unity.com/threads/what-is-the-default-friction-values-of-the-none-physics-2d-materiel.382109/
 
 ## Unity Engine
 * https://docs.unity3d.com/ScriptReference/index.html
