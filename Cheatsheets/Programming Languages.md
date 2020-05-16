@@ -126,3 +126,5 @@ map, vector -->
 type: int, float, char, string, bool
 
 Console.WriteLine("Hello World!");
+
+Class members are private by default.
