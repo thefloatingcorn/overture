@@ -6,7 +6,6 @@
   * https://globalgamejam.org
   * Ludum Dare Competition
 
-Music: Bosca Ceoil, LMMS, Ableton, FL Studio, FamiTracker, BFXR
 Music: LMMS, FL Studio, FamiTracker, Ableton, BFXR, Bosca Ceoil, FastTracker 2
 
 * https://awesomeopensource.com/projects/unreal-engine-4
