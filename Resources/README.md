@@ -50,6 +50,8 @@ https://github.com/rstacruz/cheatsheets
 
 ### Jobs
 
+https://www.fiverr.com
+
 https://www.freelancer.com
 
 https://www.careercup.com
