@@ -2,8 +2,7 @@
 
 ## Default
 
-* Engine: Godot, PICO-8
-* Art: Aseprite, piskel, Blander
+* Engine: Godot, PICO-8, Roblox, GameMaker Studio, COCOS
 * Events:
   * https://globalgamejam.org
   * https://ldjam.com
@@ -27,24 +26,36 @@
 * https://wsagames.com
 * https://winchester.games
 
-
 ### Articles
 * https://www.gamesindustry.biz/articles/2019-04-11-revealed-the-most-successful-uk-game-developers
 * https://www.packtpub.com/gb/game-development/beginning-c-20-game-programming-second-edition
 * https://transverseaudio.com/posts/best-free-chiptune-vst-synths
+* https://answers.unity.com/questions/1073808/find-matching-tiles-in-a-2d-object-grid.html
 
 ### Games
-
 * Default: Uplink
 * Rhythm/music games: "Cadence of Hyrule", "Muse Dash", "Neon Beats", "140", Rhythm Tengoku
 * Business/economic simulation games: Capitalism, Kubifaktorium
 
 
-## Music
+## Graphics
+
+http://pixelgameart.org/web/
+
+### Tools
+* Editor: Inkscape; Affinity Designer, Adobe Illustrator
+* 3D: Blender, MagicaVoxel, Mixamo; Maya, 3ds Max
+* Pixel: Pixel Studio for pixel art; Aseprite
+* https://www.piskelapp.com
+
+
+## Sound
 
 * Tools: LMMS, FL Studio, FamiTracker, Ableton, BFXR, Bosca Ceoil, FastTracker 2, uppercussion
 * https://tonejs.github.io
 * https://opengameart.org
+* https://www.freesoundeffects.com
+* https://freesound.org
 * https://www.reddit.com/r/gamedev/comments/2zr8n2/open_source_chiptune_music_for_your_games/
 
 ### Online Tools
@@ -81,15 +92,19 @@
 * http://www.drpetter.se/project_sfxr.html
 * https://tonejs.github.io/demos
 
+
 ## Unity Engine
+
 * https://docs.unity3d.com/ScriptReference/index.html
 * https://learn.unity.com
 * https://unity.com/fps-sample
-* https://learn.unity.com/project/tanks-tutorial
-* https://learn.unity.com/course/create-with-code
-
-### Tips
 * https://gamedevbeginner.com/10-unity-audio-tips-that-you-wont-find-in-the-tutorials/
+
+### Tutorials
+* https://www.raywenderlich.com/673-how-to-make-a-match-3-game-in-unity
+* https://www.gamasutra.com/blogs/DylanWolf/20170515/297981/Writing_a_Match3_game_in_Unity.php
+* https://learn.unity.com/course/create-with-code
+* https://learn.unity.com/project/tanks-tutorial
 
 ### Procedural-audio
 * https://answers.unity.com/questions/1417541/is-it-possible-to-create-sound-with-scripting.html
@@ -115,27 +130,20 @@
 ## Unreal Engine
 
 ### General
-
 * https://docs.unrealengine.com/en-US/Resources/index.html
 * https://www.unrealengine.com/en-US/onlinelearning
 * https://docs.unrealengine.com/en-US/API/index.html
 
-
 ### C++
-
 * https://docs.unrealengine.com/en-US/Programming/Tutorials/index.html
 * https://docs.unrealengine.com/en-US/Programming/Introduction/index.html
 
-
 ### Debug
-
 * https://forums.unrealengine.com/development-discussion/c-gameplay-programming/120625-basic-c-tutorial-problem-with-undefined-identifiers
 * https://forums.unrealengine.com/development-discussion/c-gameplay-programming/1473612-can-t-cast-to-uscenecomponent
 * https://forums.unrealengine.com/community/general-discussion/119897-macos-metal-and-xcode-message
 
-
 ### Example Projects
-
 * https://docs.unrealengine.com/en-US/Resources/SampleGames/index.html
 * https://www.tomlooman.com/survival-sample-game-for-ue4/
 * https://awesomeopensource.com/projects/unreal-engine-4
