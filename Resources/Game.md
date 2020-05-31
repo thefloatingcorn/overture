@@ -2,7 +2,7 @@
 
 ## Default
 
-* Engine: Godot, PICO-8, Roblox, GameMaker Studio, COCOS
+* Engine: Godot, PICO-8, Roblox, GameMaker Studio, COCOS, Phaser
 * Events:
   * https://globalgamejam.org
   * https://ldjam.com
@@ -31,9 +31,11 @@
 * https://www.packtpub.com/gb/game-development/beginning-c-20-game-programming-second-edition
 * https://transverseaudio.com/posts/best-free-chiptune-vst-synths
 * https://answers.unity.com/questions/1073808/find-matching-tiles-in-a-2d-object-grid.html
+* https://phaser.io/news/2020/04/javascript-match-3-class
 
 ### Games
-* Default: Uplink
+* Uplink, Fez, Hyper Light Drifter
+* Tile-matching: Bejeweled, Puzzle Quest, Dr. Mario, Tetris
 * Rhythm/music games: "Cadence of Hyrule", "Muse Dash", "Neon Beats", "140", Rhythm Tengoku
 * Business/economic simulation games: Capitalism, Kubifaktorium
 
@@ -43,15 +45,16 @@
 http://pixelgameart.org/web/
 
 ### Tools
-* Editor: Inkscape; Affinity Designer, Adobe Illustrator
+* Editor: GIMP, Inkscape, Krita; Affinity Designer, Adobe Illustrator, Photoshop
 * 3D: Blender, MagicaVoxel, Mixamo; Maya, 3ds Max
-* Pixel: Pixel Studio for pixel art; Aseprite
+* Pixel: PikoPixel, GraphicsGale (Win only), Pixel Studio for pixel art, Grafx2,; Aseprite, Pyxel Edit, Pro Motion NG
 * https://www.piskelapp.com
 
 
 ## Sound
 
-* Tools: LMMS, FL Studio, FamiTracker, Ableton, BFXR, Bosca Ceoil, FastTracker 2, uppercussion
+* Tools: LMMS, FL Studio, BFXR, FamiTracker, Ableton, Bosca Ceoil, FastTracker 2, uppercussion
+* Audacity
 * https://tonejs.github.io
 * https://opengameart.org
 * https://www.freesoundeffects.com
