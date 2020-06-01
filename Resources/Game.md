@@ -34,21 +34,27 @@
 * https://phaser.io/news/2020/04/javascript-match-3-class
 
 ### Games
-* Uplink, Fez, Hyper Light Drifter
+* Default: Uplink, Fez, Hyper Light Drifter
 * Tile-matching: Bejeweled, Puzzle Quest, Dr. Mario, Tetris
 * Rhythm/music games: "Cadence of Hyrule", "Muse Dash", "Neon Beats", "140", Rhythm Tengoku
 * Business/economic simulation games: Capitalism, Kubifaktorium
 
+#### Inspiration
+* Random Dice PvP Defense (by 111%), Word Vistas- Stack Word Search, Merge Wood: Block Puzzle, Lanescape (by ZealTopia Interactive), Hue: A color adventure (by BadLand Publishing)
+* Thousand Flower, Tile Fun (by games mint), Block Blast 3D! (by KKZAP), Tile Master - Classic Triple Match & Puzzle Game, Arkadium Taptiles, Block Crush, Artefactis: Magik Puzzles, Block Hazard - Creative Block Puzzle Games
 
 ## Graphics
-
-http://pixelgameart.org/web/
+* https://lospec.com
+* https://blog.studiominiboss.com/pixelart
+* https://www.spriters-resource.com
+* http://pixelgameart.org/web/
 
 ### Tools
 * Editor: GIMP, Inkscape, Krita; Affinity Designer, Adobe Illustrator, Photoshop
 * 3D: Blender, MagicaVoxel, Mixamo; Maya, 3ds Max
 * Pixel: PikoPixel, GraphicsGale (Win only), Pixel Studio for pixel art, Grafx2,; Aseprite, Pyxel Edit, Pro Motion NG
 * https://www.piskelapp.com
+* Lospec, paint.net
 
 
 ## Sound
