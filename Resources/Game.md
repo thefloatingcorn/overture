@@ -36,18 +36,23 @@
 ### Games
 * Default: Uplink, Fez, Hyper Light Drifter
 * Tile-matching: Bejeweled, Puzzle Quest, Dr. Mario, Tetris
-* Rhythm/music games: "Cadence of Hyrule", "Muse Dash", "Neon Beats", "140", Rhythm Tengoku
+* Rhythm/music games: "Cadence of Hyrule", "Muse Dash", "Neon Beats", "140", Rhythm Tengoku, Audiosurf, osu!
 * Business/economic simulation games: Capitalism, Kubifaktorium
 
 #### Inspiration
-* Random Dice PvP Defense (by 111%), Word Vistas- Stack Word Search, Merge Wood: Block Puzzle, Lanescape (by ZealTopia Interactive), Hue: A color adventure (by BadLand Publishing)
-* Thousand Flower, Tile Fun (by games mint), Block Blast 3D! (by KKZAP), Tile Master - Classic Triple Match & Puzzle Game, Arkadium Taptiles, Block Crush, Artefactis: Magik Puzzles, Block Hazard - Creative Block Puzzle Games
+* Mahjong Solitaire variants: Thousand Flower, Tile Fun (by games mint), Block Blast 3D! (by KKZAP), Tile Master - Classic Triple Match & Puzzle Game, Tile Match Animal - Classic Triple Matching Puzzle, Arkadium Taptiles,
+* Tile-matching: Puzzle Combat, Puzzle & Defense: Match 3 (by HalftimeStudio Inc.), Sandy Puzzle : Match 3, Block Hazard - Creative Block Puzzle Games, Artefactis: Magik Puzzles,  Angry Birds Match, Block Crush, Puzzle Ark, Cartoon Network Match Land, Cats Atelier, SEGA Heroes, Troll Patrol
+* Visual: Tetris Effect, Random Dice PvP Defense (by 111%), Whack-A-Tile (by Wojciech Wysocki), Pixel Crush (by Yuechuan)
+* Idea: Hue: A color adventure (by BadLand Publishing), Lanescape (by ZealTopia Interactive), Word Vistas- Stack Word Search, Merge Wood: Block Puzzle,
+* Impl: Fun Race 3D, ID Please - Club Simulation (by Lion Studios)
+
 
 ## Graphics
 * https://lospec.com
 * https://blog.studiominiboss.com/pixelart
 * https://www.spriters-resource.com
 * http://pixelgameart.org/web/
+* https://www.gameart2d.com
 
 ### Tools
 * Editor: GIMP, Inkscape, Krita; Affinity Designer, Adobe Illustrator, Photoshop
@@ -74,6 +79,12 @@
 * http://www.pulseboy.com
 
 ### Articles
+* https://forum.unity.com/threads/dynamic-music-in-unity-examples.297631/
+* https://gamedev.stackexchange.com/questions/146605/how-to-synchronize-a-game-with-music
+* https://answers.unity.com/questions/897884/how-to-sync-audio-and-visuals-in-rhythm-game.html
+* https://christianfloisand.wordpress.com/2014/01/23/beat-synchronization-in-unity/
+* https://gamedev.stackexchange.com/questions/146605/how-to-synchronize-a-game-with-music
+* https://www.gamasutra.com/blogs/GrahamTattersall/20190515/342454/Coding_to_the_Beat__Under_the_Hood_of_a_Rhythm_Game_in_Unity.php
 * https://stackoverflow.com/questions/297070/how-to-generate-sound-effects-in-java
 * https://www.reddit.com/r/gamedev/comments/t3y03/algorithm_for_generating_synth_noise_channel_8bit/
 * https://www.reddit.com/r/chiptunes/comments/3p5w5c/what_is_the_best_program_to_make_chiptune/
@@ -103,7 +114,6 @@
 
 
 ## Unity Engine
-
 * https://docs.unity3d.com/ScriptReference/index.html
 * https://learn.unity.com
 * https://unity.com/fps-sample
