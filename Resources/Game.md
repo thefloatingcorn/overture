@@ -35,12 +35,12 @@
 
 ### Games
 * Default: Uplink, Fez, Hyper Light Drifter
-* Tile-matching: Bejeweled, Puzzle Quest, Dr. Mario, Tetris
+* Tile-matching: Bejeweled, Puzzle Quest, Dr. Mario, Tetris, Puzzle & Dragons
 * Rhythm/music games: "Cadence of Hyrule", "Muse Dash", "Neon Beats", "140", Rhythm Tengoku, Audiosurf, osu!
 * Business/economic simulation games: Capitalism, Kubifaktorium
 
 #### Inspiration
-* Mahjong Solitaire variants: Thousand Flower, Tile Fun (by games mint), Block Blast 3D! (by KKZAP), Tile Master - Classic Triple Match & Puzzle Game, Tile Match Animal - Classic Triple Matching Puzzle, Arkadium Taptiles,
+* Mahjong Solitaire variants: Kyodai Mahjongg, Thousand Flower, Tile Fun (by games mint), Block Blast 3D! (by KKZAP), Tile Master - Classic Triple Match & Puzzle Game, Tile Match Animal - Classic Triple Matching Puzzle, Arkadium Taptiles,
 * Tile-matching: Puzzle Combat, Puzzle & Defense: Match 3 (by HalftimeStudio Inc.), Sandy Puzzle : Match 3, Block Hazard - Creative Block Puzzle Games, Artefactis: Magik Puzzles,  Angry Birds Match, Block Crush, Puzzle Ark, Cartoon Network Match Land, Cats Atelier, SEGA Heroes, Troll Patrol
 * Visual: Tetris Effect, Random Dice PvP Defense (by 111%), Whack-A-Tile (by Wojciech Wysocki), Pixel Crush (by Yuechuan)
 * Idea: Hue: A color adventure (by BadLand Publishing), Lanescape (by ZealTopia Interactive), Word Vistas- Stack Word Search, Merge Wood: Block Puzzle,
@@ -53,6 +53,10 @@
 * https://www.spriters-resource.com
 * http://pixelgameart.org/web/
 * https://www.gameart2d.com
+* https://craftpix.net/
+* https://gameartpartners.com/
+* https://www.pixilart.com
+* http://pixelartmaker.com
 
 ### Tools
 * Editor: GIMP, Inkscape, Krita; Affinity Designer, Adobe Illustrator, Photoshop
