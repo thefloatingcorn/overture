@@ -2,6 +2,8 @@
 
 ## Default
 
+https://code.likeagirl.io/how-to-get-rid-of-ds-store-and-node-modules-in-git-repositories-d37b8a391247
+
 [Grokking Algorithms: An illustrated guide for programmers and other curious people, by Aditya Y. Bhargava](https://www.oreilly.com/library/view/grokking-algorithms-an/9781617292231/).
 
 
