@@ -34,16 +34,35 @@
 * https://phaser.io/news/2020/04/javascript-match-3-class
 
 ### Games
-* Default: Uplink, Fez, Hyper Light Drifter
-* Tile-matching: Bejeweled, Puzzle Quest, Dr. Mario, Tetris, Puzzle & Dragons
-* Rhythm/music games: "Cadence of Hyrule", "Muse Dash", "Neon Beats", "140", Rhythm Tengoku, Audiosurf, osu!
+* Default: Uplink, Fez, Hyper Light Drifter, Iron Quest, I Keep Having This Dream
+* Tile-matching: Bejeweled, Dr. Mario, Tetris, SameGame, Plotting, Shariki, Puzzle Quest, Neopets Puzzle Adventure
+* Rhythm/music games: "Cadence of Hyrule", "Muse Dash", "Neon Beats", "140", Rhythm Tengoku, Audiosurf, osu!, Piano Ball
 * Business/economic simulation games: Capitalism, Kubifaktorium
 
 #### Inspiration
+* Tile-matching:
+    * Troll Patrol, Tavern Guardians, Angry Birds Match, Dungeon Raid
+    * Heros of Elements, Gems of War, Marvel Puzzle, Legendary: Game of Heroes
+    * Heroes and Puzzles, Duel - Puzzle Wars PvP, Primal Legends
+    * Puzzle & Dragons, Tower of Saviors, Pokémon Shuffle
+    * Hero Emblems, Puzzle Ark, Good Knight Story,
+    * Crusaders Quest, Sdorica: Sunset
+    * (Cartoon Network) Match Land, Raids & Puzzles, Crash Fever
+    * Dragons & Diamonds, Valiant Tales, SEGA Heroes,
+    * Puyopuyo quest, Battle Gems (AdventureQuest), Adventure Xpress, Battle Camp
+    * Murasaki7, Deck Heroes: Puzzle RPG, Dragon Strike: Puzzle RPG
+    * Phoenix Rangers: Puzzle RPG, Shadow Wars: Horror Puzzle RPG
+    * Puzzle Combat, Dragon Strike: Puzzle RPG, Empires and Puzzles
+    * Hexagon Dungeon, 10000000, You Must Build A Boat
+    * Battlejack, Puzzle & Defense: Match 3 (by HalftimeStudio Inc.), LightSlinger Heroes
+    * Cats Atelier, Matchington Mansion, Sandy Puzzle : Match 3, Triple Town, Cat Match-3
+    * Puzzle Quest: Galactrix, Artefactis: Magik Puzzles
+    * Block Hazard - Creative Block Puzzle Games, Block Crush
+    * Ticket to Earth, Legend of Solgard, Aurora Feint
+    * Evergarden, TwoDots, Ruya, Tiny Bubbbles
+    * Gridland, The Spellsmith, Block Legend, Pixel Defenders Puzzle, Swap Sword, 
+    * Devil Shard, TacWars, Sorcerer of Fortune
 * Mahjong Solitaire variants: Kyodai Mahjongg, Thousand Flower, Tile Fun (by games mint), Block Blast 3D! (by KKZAP), Tile Master - Classic Triple Match & Puzzle Game, Tile Match Animal - Classic Triple Matching Puzzle, Arkadium Taptiles,
-* Tile-matching: Puzzle Combat, Puzzle & Defense: Match 3 (by HalftimeStudio Inc.), Sandy Puzzle : Match 3, Block Hazard - Creative Block Puzzle Games, Artefactis: Magik Puzzles,  Angry Birds Match, Block Crush, Puzzle Ark, Cartoon Network Match Land, Cats Atelier, SEGA Heroes, Troll Patrol
-* Visual: Tetris Effect, Random Dice PvP Defense (by 111%), Whack-A-Tile (by Wojciech Wysocki), Pixel Crush (by Yuechuan)
-* Idea: Hue: A color adventure (by BadLand Publishing), Lanescape (by ZealTopia Interactive), Word Vistas- Stack Word Search, Merge Wood: Block Puzzle,
 * Impl: Fun Race 3D, ID Please - Club Simulation (by Lion Studios)
 
 
