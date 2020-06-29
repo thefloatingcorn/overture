@@ -27,6 +27,12 @@
 * https://winchester.games
 
 ### Articles
+* https://rpg-site.com/tag/match-3/
+* http://elliotp.blogspot.com/2018/04/gameplay-footage.html
+* https://medium.com/@mayafish/an-ode-to-dungeonraid-the-greatest-game-youll-never-get-to-play-758c096365e7
+* https://medium.com/@john_23522/a-brief-history-of-match-three-games-31233dcdfcc5
+* https://www.jesperjuul.net/text/swapadjacent/
+* https://www.gamerefinery.com/the-future-of-match-3-what-you-need-to-know-part-i/
 * https://www.gamesindustry.biz/articles/2019-04-11-revealed-the-most-successful-uk-game-developers
 * https://www.packtpub.com/gb/game-development/beginning-c-20-game-programming-second-edition
 * https://transverseaudio.com/posts/best-free-chiptune-vst-synths
