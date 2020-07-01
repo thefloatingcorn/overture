@@ -41,35 +41,46 @@
 * https://phaser.io/news/2020/04/javascript-match-3-class
 
 ### Games
-* Default: Uplink, Fez, Hyper Light Drifter, Iron Quest, I Keep Having This Dream
+* Default: Fez, Hyper Light Drifter, Crying Suns, Iron Quest, I Keep Having This Dream
+* The Witness, Braid, Undertale, Pony Island
+* Human Resource Machine, Hacknet, Uplink, TIS-100, Opus Magnum, SpaceChem, SHENZHEN I/O
+* Educational: Solar System with Astro Cat, Code Hunt Game
 * Tile-matching: Bejeweled, Dr. Mario, Tetris, SameGame, Plotting, Shariki, Puzzle Quest, Neopets Puzzle Adventure
 * Rhythm/music games: "Cadence of Hyrule", "Muse Dash", "Neon Beats", "140", Rhythm Tengoku, Audiosurf, osu!, Piano Ball
 * Business/economic simulation games: Capitalism, Kubifaktorium
 
 #### Inspiration
 * Tile-matching:
+    * The Spellsmith, TacWars, Gridland, Puzzle Forge
     * Troll Patrol, Tavern Guardians, Angry Birds Match, Dungeon Raid
     * Heros of Elements, Gems of War, Marvel Puzzle, Legendary: Game of Heroes
+    * Magic: The Gathering – Puzzle Quest, SpellBox
     * Heroes and Puzzles, Duel - Puzzle Wars PvP, Primal Legends
-    * Puzzle & Dragons, Tower of Saviors, Pokémon Shuffle
     * Hero Emblems, Puzzle Ark, Good Knight Story,
-    * Crusaders Quest, Sdorica: Sunset
+    * Puzzle Combat, Empires and Puzzles, Puzzles & Conquest, Dragon Strike: Puzzle RPG,
     * (Cartoon Network) Match Land, Raids & Puzzles, Crash Fever
+    * Hexagon Dungeon, 10000000, You Must Build A Boat
+    * Puzzle & Dragons, Tower of Saviors, Pokémon Shuffle
+    * Crusaders Quest, Sdorica: Sunset
     * Dragons & Diamonds, Valiant Tales, SEGA Heroes,
     * Puyopuyo quest, Battle Gems (AdventureQuest), Adventure Xpress, Battle Camp
     * Murasaki7, Deck Heroes: Puzzle RPG, Dragon Strike: Puzzle RPG
     * Phoenix Rangers: Puzzle RPG, Shadow Wars: Horror Puzzle RPG
-    * Puzzle Combat, Dragon Strike: Puzzle RPG, Empires and Puzzles
-    * Hexagon Dungeon, 10000000, You Must Build A Boat
     * Battlejack, Puzzle & Defense: Match 3 (by HalftimeStudio Inc.), LightSlinger Heroes
     * Cats Atelier, Matchington Mansion, Sandy Puzzle : Match 3, Triple Town, Cat Match-3
     * Puzzle Quest: Galactrix, Artefactis: Magik Puzzles
     * Block Hazard - Creative Block Puzzle Games, Block Crush
     * Ticket to Earth, Legend of Solgard, Aurora Feint
-    * Evergarden, TwoDots, Ruya, Tiny Bubbbles
-    * Gridland, The Spellsmith, Block Legend, Pixel Defenders Puzzle, Swap Sword, 
-    * Devil Shard, TacWars, Sorcerer of Fortune
+    * TwoDots, Evergarden, Ruya, Tiny Bubbbles
+    * Block Legend, Pixel Defenders Puzzle, Swap Sword,
+    * Devil Shard, Sorcerer of Fortune
+    * Best Fiends 
+* Puzzles:
+    * Grindstone, Dissembler
+    * Threes, Patterns, Vectronom, Transmission, Powernode, Mini Metro, Infinite West, Cosmic Express
 * Mahjong Solitaire variants: Kyodai Mahjongg, Thousand Flower, Tile Fun (by games mint), Block Blast 3D! (by KKZAP), Tile Master - Classic Triple Match & Puzzle Game, Tile Match Animal - Classic Triple Matching Puzzle, Arkadium Taptiles,
+* Visual: Tetris Effect, Random Dice PvP Defense (by 111%), Whack-A-Tile (by Wojciech Wysocki), Pixel Crush (by Yuechuan), Monument Valley
+* Idea: Hue: A color adventure (by BadLand Publishing), Lanescape (by ZealTopia Interactive), Word Vistas- Stack Word Search, Merge Wood: Block Puzzle, Black Block Blast, BlockuDoku, Block Blast - Sudoku Puzzle, Bloku, Pogo Games: Sudoku Puzzle Blast
 * Impl: Fun Race 3D, ID Please - Club Simulation (by Lion Studios)
 
 
