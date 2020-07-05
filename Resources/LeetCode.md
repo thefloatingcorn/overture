@@ -1,8 +1,7 @@
 # Classifying LeetCode
 
 ## Intro
-To focus on the essential problems on LeetCode,
-a classification is built based on my own experience,
+A classification is built to focus on the essential problems on LeetCode,
 referring existing works such as:
 
 https://mincongzhang.gitbooks.io/data_structures_and_algorithms/content/
@@ -18,11 +17,11 @@ https://cspiration.com/leetcodeClassification
 
 ### Binary Search:
 Hint:
-* items have to be sorted.
+* sorted items
 * runtime complexity in the order of O(log n)
 
 * Easy:
-  * [278.	First Bad Version](https://leetcode.com/problems/first-bad-version)
+  * [278. First Bad Version](https://leetcode.com/problems/first-bad-version)
   * [69. Sqrt(x)](https://leetcode.com/problems/sqrtx)
   * [35. Search Insert Position](https://leetcode.com/problems/search-insert-position)
 * Mid:
@@ -38,6 +37,7 @@ Hint:
 
 ### Two Pointers
 Hint: in-place
+
 * Easy:
   * [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)
   * [27. Remove Element](https://leetcode.com/problems/remove-element)
@@ -48,8 +48,6 @@ Hint: in-place
 <!-- * [283.	Move Zeroes]
 [443. String Compression]
 * Mid:
-
-
 Sliding Window:
 * Mid:
   * 209. Minimum Size Subarray Sum
@@ -69,10 +67,7 @@ Hint: how many possible ways.
 <!-- 204. Count Primes -->
 <!-- 119 Pascal's Triangle II-->
 <!-- 674. Longest Continuous Increasing Subsequence -->
-<!--
 
-
--->
 
 ### Divide and Conquer / (Recursion)
 * [53.	Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
@@ -104,15 +99,14 @@ Hint: how many possible ways.
 <!-- * [21.	Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)
 * [141.	Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)
 * [160.	Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) -->
-
 <!--
 83 Remove Duplicates from Sorted List -->
-
 <!--
 * Mid:
   * 19.	Remove Nth Node From End of List
   * 24.	Swap Nodes in Pairs
   * 328.	Odd Even Linked List -->
+
 
 ### Tree
 * [104.	Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)
@@ -167,6 +161,7 @@ Mid:
 * [190.	Reverse Bits](https://leetcode.com/problems/reverse-bits)
 * [191.	Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits)
 * [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers)
+
 ---
 
 ## Tier III: Topics
