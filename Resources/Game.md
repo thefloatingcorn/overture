@@ -68,16 +68,17 @@
     * Phoenix Rangers: Puzzle RPG, Shadow Wars: Horror Puzzle RPG
     * Battlejack, Puzzle & Defense: Match 3 (by HalftimeStudio Inc.), LightSlinger Heroes
     * Cats Atelier, Matchington Mansion, Sandy Puzzle : Match 3, Triple Town, Cat Match-3
-    * Puzzle Quest: Galactrix, Artefactis: Magik Puzzles
+    * Puzzle Quest: Galactrix, Artefactis: Magik Puzzles, Block! Hexa puzzle
     * Block Hazard - Creative Block Puzzle Games, Block Crush
     * Ticket to Earth, Legend of Solgard, Aurora Feint
     * TwoDots, Evergarden, Ruya, Tiny Bubbbles
     * Block Legend, Pixel Defenders Puzzle, Swap Sword,
     * Devil Shard, Sorcerer of Fortune
-    * Best Fiends 
+    * Best Fiends
 * Puzzles:
     * Grindstone, Dissembler
-    * Threes, Patterns, Vectronom, Transmission, Powernode, Mini Metro, Infinite West, Cosmic Express
+    * Outsider: After Life, Transmission, Powernode, Mini Metro,
+    * Threes, Patterns, Vectronom, Infinite West, Cosmic Express, Love Poly
 * Mahjong Solitaire variants: Kyodai Mahjongg, Thousand Flower, Tile Fun (by games mint), Block Blast 3D! (by KKZAP), Tile Master - Classic Triple Match & Puzzle Game, Tile Match Animal - Classic Triple Matching Puzzle, Arkadium Taptiles,
 * Visual: Tetris Effect, Random Dice PvP Defense (by 111%), Whack-A-Tile (by Wojciech Wysocki), Pixel Crush (by Yuechuan), Monument Valley
 * Idea: Hue: A color adventure (by BadLand Publishing), Lanescape (by ZealTopia Interactive), Word Vistas- Stack Word Search, Merge Wood: Block Puzzle, Black Block Blast, BlockuDoku, Block Blast - Sudoku Puzzle, Bloku, Pogo Games: Sudoku Puzzle Blast
@@ -101,6 +102,7 @@
 * Pixel: PikoPixel, GraphicsGale (Win only), Pixel Studio for pixel art, Grafx2,; Aseprite, Pyxel Edit, Pro Motion NG
 * https://www.piskelapp.com
 * Lospec, paint.net
+* Asset Forge
 
 
 ## Sound
@@ -193,6 +195,7 @@
 * https://docs.unrealengine.com/en-US/Resources/index.html
 * https://www.unrealengine.com/en-US/onlinelearning
 * https://docs.unrealengine.com/en-US/API/index.html
+* https://forums.unrealengine.com/development-discussion/c-gameplay-programming
 
 ### C++
 * https://docs.unrealengine.com/en-US/Programming/Tutorials/index.html
