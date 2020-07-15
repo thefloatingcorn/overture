@@ -17,11 +17,18 @@
 
 ### Default
 
+* Synthesia
+* JUCE
+
+https://codeinstitute.net/5-day-coding-challenge/
+
+http://www.roycramer.com/procedural-music-generator.html
+
 https://chartgame.com
 
 https://beta.companieshouse.gov.uk
 
-Freelance: https://www.fiverr.com
+https://www.soundgym.co/
 
 https://www.crunchbase.com
 : a platform for finding business information about private and public companies
@@ -29,13 +36,15 @@ https://www.crunchbase.com
 Article: https://www.investopedia.com/articles/personal-finance/102015/series-b-c-funding-what-it-all-means-and-how-it-works.asp
 
 ### General learning
+* https://www.educative.io
+* https://www.khanacademy.org
+* https://www.udemy.com
+* https://www.coursera.org
 
-https://www.educative.io/
-
-https://www.khanacademy.org
-
-https://www.udemy.com
-
+### Freelance
+* https://www.upwork.com
+* https://www.fiverr.com
+* https://www.freelancer.com
 
 ### Cheatsheets
 
@@ -49,10 +58,6 @@ https://github.com/rstacruz/cheatsheets
 
 
 ### Jobs
-
-https://www.fiverr.com
-
-https://www.freelancer.com
 
 https://www.careercup.com
 

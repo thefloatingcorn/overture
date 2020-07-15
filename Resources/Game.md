@@ -8,6 +8,7 @@
   * https://ldjam.com
 
 ### Websites
+* https://www.mcvuk.com
 * https://toucharcade.com
 * https://opengameart.org
 * http://www.gamesindustry.biz
@@ -24,6 +25,7 @@
 * https://www.everyonecan.org.uk
 
 ### Projects
+* http://thatgamesguy.co.uk
 * https://wsagames.com
 * https://winchester.games
 
