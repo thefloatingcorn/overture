@@ -1,8 +1,26 @@
 # Game Sound
 
 ## Unity Assets
+[usfxr - Procedural Sound Effects](https://assetstore.unity.com/packages/tools/audio/usfxr-procedural-sound-effects-18619)
+: a port of Tomas Pettersson's sfxr.
 * [Sound Controller](https://assetstore.unity.com/packages/tools/audio/sound-controller-99032)
-: free open source alternative to Audiotoolkit.
+: free open source alternative to Audio Toolkit.
+
+## Github
+* https://github.com/Tonejs/Tone.js
+* https://github.com/processing/p5.js-sound
+* https://github.com/thestk/stk
+* [CSharpSynthForUnity](https://github.com/kewlniss/CSharpSynthForUnity)
+* [Unity-Synthesizer-in-C-Sharp](https://github.com/JZito/Unity-Synthesizer-in-C-Sharp)
+* [synth](https://github.com/OneLoneCoder/synth)
+: C++ code used in the Code-It-Yourself sound synthesizer videos on the onelonecoder.com blog
+* [Granulator](https://github.com/emmmmmmm/Granulator)
+: a simple granular synthesiser built in C#.
+
+<!-- ## Video -->
+
+
+## Articles
 
 ## Music Synchronisation
 * https://gamedev.stackexchange.com/questions/146605/how-to-synchronize-a-game-with-music
@@ -10,11 +28,16 @@
 * https://christianfloisand.wordpress.com/2014/01/23/beat-synchronization-in-unity/
 * https://gamedev.stackexchange.com/questions/146605/how-to-synchronize-a-game-with-music
 
+## Multiple Sounds
+* https://answers.unity.com/questions/977606/how-to-play-multiple-sounds-simultaneously.html
+* https://answers.unity.com/questions/577402/multi-channel-audio.html
+* https://answers.unity.com/questions/714133/playing-each-channel-of-a-midi-track-on-separate-a.html
+* https://support.unity3d.com/hc/en-us/articles/206116386-How-do-I-play-multiple-Audio-Sources-from-one-GameObject-
+
 ## Default
 
 * Tools: LMMS, FL Studio, BFXR, FamiTracker, Ableton, Bosca Ceoil, FastTracker 2, uppercussion
 * Audacity
-* https://tonejs.github.io
 * http://chuck.stanford.edu/chunity/tutorials/
 * https://opengameart.org
 * https://www.freesoundeffects.com
@@ -46,12 +69,6 @@
 * http://canonical.org/~kragen/bytebeat/
 * https://www.reddit.com/r/csharp/comments/4neo4a/minimal_no_dependencies_bytebeat_music_player_in_c/
 * https://medium.com/dev-red/tutorial-lets-make-music-with-javascript-and-tone-js-f6ac39d95b8c
-
-### Howto
-* https://answers.unity.com/questions/977606/how-to-play-multiple-sounds-simultaneously.html
-* https://answers.unity.com/questions/577402/multi-channel-audio.html
-* https://answers.unity.com/questions/714133/playing-each-channel-of-a-midi-track-on-separate-a.html
-* https://support.unity3d.com/hc/en-us/articles/206116386-How-do-I-play-multiple-Audio-Sources-from-one-GameObject-
 
 ### Wiki
 * https://en.wikibooks.org/wiki/Sound_Synthesis_Theory/Oscillators_and_Wavetables
