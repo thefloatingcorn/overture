@@ -20,6 +20,8 @@
 * Synthesia
 * JUCE
 
+https://awesomeopensource.com
+
 https://codeinstitute.net/5-day-coding-challenge/
 
 http://www.roycramer.com/procedural-music-generator.html

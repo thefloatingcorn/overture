@@ -19,6 +19,10 @@ https://github.com/LongOnly/Quantitative-Notebooks
 
 ## Website
 
+https://www.300hours.com
+
+https://quantra.quantinsti.com
+
 https://quant.meta.stackexchange.com
 
 https://www.quantquestions.com
