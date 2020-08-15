@@ -74,7 +74,9 @@ Hint: how many possible ways.
 * [169.	Majority Element](https://leetcode.com/problems/majority-element)
 
 ### Greedy
+* [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
 * [860. Lemonade Change](https://leetcode.com/problems/lemonade-change)
+* [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
 
 ---
 ## Tier II: Structures
@@ -133,13 +135,13 @@ Hint: how many possible ways.
 
 ### Char/Str
 * Easy
-  * [14.	Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)
-  * [28.	Implement strStr()](https://leetcode.com/problems/implement-strstr)
-  * [58.	Length of Last Word](https://leetcode.com/problems/length-of-last-word)
+  * [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)
+  * [28. Implement strStr()](https://leetcode.com/problems/implement-strstr)
+  * [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word)
 * ord() / chr()
-  * [168.	Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title)
-  * [171.	Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number)
-  * [389.	Find the Difference](https://leetcode.com/problems/find-the-difference)  
+  * [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title)
+  * [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number)
+  * [389. Find the Difference](https://leetcode.com/problems/find-the-difference)  
 
 <!--
 205. Isomorphic Strings
@@ -152,6 +154,7 @@ Hint: how many possible ways.
 290. Word Pattern
 299. Bulls and Cows
 345. Reverse Vowels of a String
+520. Detect Capital
 Mid:
 49. Group Anagrams
 166. Fraction to Recurring Decimal
@@ -205,6 +208,8 @@ Mid:
 * 90	Subsets II  
 * 134. Gas Station
 * 50. Pow(x, n)
+* 705. Design HashSet
+* 211. Add and Search Word - Data structure design
 
 ---
 ## Tier V: To Do List
