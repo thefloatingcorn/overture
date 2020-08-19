@@ -9,6 +9,9 @@ https://www.khanacademy.org/computing/computer-science/algorithms/sorting-algori
 1. Find the next-smallest card and swap it with the second card.
 1. Repeat until the array is sorted.
 
+### Insertion sort
+<!-- doing extra swaps -->
+
 ### Quick sort
 https://www.tutorialspoint.com/data_structures_algorithms/quick_sort_algorithm.htm
 1. Make the left-most index value pivot.
@@ -24,7 +27,22 @@ https://www.khanacademy.org/computing/computer-science/algorithms/merge-sort/a/o
 
 
 ## Searching
-### BFS
+
+### Binary
+```Python
+l, r = 0, len(nums)
+while l < r:
+    m = l + (r-l)//2
+    if nums[m] == target:
+        return m
+    if nums[m] > target:
+        r = m
+    else:
+        l = m + 1
+return l
+```
+
+### Breath-First
 ```Python
 def getDistanceBFS(targetId, rootIdList):
     distance = 0

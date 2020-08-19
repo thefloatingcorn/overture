@@ -155,6 +155,7 @@ Hint: how many possible ways.
 299. Bulls and Cows
 345. Reverse Vowels of a String
 520. Detect Capital
+824. Goat Latin
 Mid:
 49. Group Anagrams
 166. Fraction to Recurring Decimal

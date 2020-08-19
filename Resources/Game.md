@@ -2,7 +2,20 @@
 
 ## Default
 
+New Grounds
+Tigsource
+GameDev.net
+Reddit
+GameJolt
+DevelTeam
+Itch.io
+
+* https://crowdsourcer.io/discover
+* https://www.fig.co
+* https://ninichimusic.com/blog/10-crowdfunding-platforms-to-consider-for-indie-projects
+
 * Engine: Godot, PICO-8, Roblox, GameMaker Studio, COCOS, Phaser
+* Sound: https://freesound.org
 * Events:
   * https://globalgamejam.org
   * https://ldjam.com
@@ -10,7 +23,6 @@
 ### Websites
 * https://www.mcvuk.com
 * https://toucharcade.com
-* https://opengameart.org
 * http://www.gamesindustry.biz
 * https://gradsingames.com
 * https://ukiepedia.ukie.org.uk/index.php/Main_Page
@@ -24,6 +36,10 @@
 * https://www.taminggaming.com/home
 * https://www.everyonecan.org.uk
 
+### Art
+* https://opengameart.org
+* https://freesound.org
+
 ### Projects
 * http://thatgamesguy.co.uk
 * https://wsagames.com
@@ -35,6 +51,8 @@
 * https://transverseaudio.com/posts/best-free-chiptune-vst-synths
 
 ### Youtube
+
+* https://pixeland.io/blog/recommended-game-development-channels-on-youtube
 
 ### Games
 * Default: Fez, Hyper Light Drifter, Crying Suns, Iron Quest, I Keep Having This Dream
@@ -66,6 +84,10 @@
 
 
 ## Unity Engine
+* https://docs.unity3d.com/Manual/OpenSourceRepositories.html
+* https://github.com/baba-s/awesome-unity-open-source-on-github
+* http://www.procedural-worlds.com/blog/best-free-unity-assets-categorised-mega-list/
+* https://unitylist.com
 * https://docs.unity3d.com/ScriptReference/index.html
 * https://learn.unity.com
 * https://unity.com/fps-sample
@@ -77,20 +99,24 @@
 * https://learn.unity.com/tutorial/working-with-native-plugins-2019-3
 
 ### Howto
+* https://medium.com/sun-dog-studios/rapid-unity-tutorials-1-physics-materials-68758351fd8a
 * https://medium.com/ironequal/unity-character-controller-vs-rigidbody-a1e243591483
 * https://medium.com/@johntucker_48673/unity-update-versus-fixedupdate-7a4d4d7bc1f5
 * https://forum.unity.com/threads/what-is-the-default-friction-values-of-the-none-physics-2d-materiel.382109/
 * https://medium.com/@pudding_entertainment/unity-how-to-create-2d-tilemap-programmatically-afb1f94ffce5
 * https://stackoverflow.com/questions/30056471/how-make-the-script-wait-sleep-in-a-simple-way-in-unity
 * https://gamedevbeginner.com/ultimate-guide-to-playscheduled-in-unity/
+* https://answers.unity.com/questions/1410936/how-to-prevent-a-ui-element-from-clicking-the-game.html
 
 
 ## Unreal Engine
 
 ### General
+* https://github.com/terrehbyte/awesome-ue4
 * https://docs.unrealengine.com/en-US/Resources/index.html
 * https://www.unrealengine.com/en-US/onlinelearning
 * https://docs.unrealengine.com/en-US/API/index.html
+* https://forums.unrealengine.com/community/community-content-tools-and-tutorials
 * https://forums.unrealengine.com/development-discussion/c-gameplay-programming
 
 ### C++

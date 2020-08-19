@@ -22,19 +22,29 @@
 
 ## Articles
 
-## Music Synchronisation
+* https://forum.unity.com/threads/generating-a-simple-sinewave.471529
+
+### Music Synchronisation
 * https://gamedev.stackexchange.com/questions/146605/how-to-synchronize-a-game-with-music
 * https://answers.unity.com/questions/897884/how-to-sync-audio-and-visuals-in-rhythm-game.html
 * https://christianfloisand.wordpress.com/2014/01/23/beat-synchronization-in-unity/
 * https://gamedev.stackexchange.com/questions/146605/how-to-synchronize-a-game-with-music
 
-## Multiple Sounds
+### Multiple Sounds
 * https://answers.unity.com/questions/977606/how-to-play-multiple-sounds-simultaneously.html
 * https://answers.unity.com/questions/577402/multi-channel-audio.html
 * https://answers.unity.com/questions/714133/playing-each-channel-of-a-midi-track-on-separate-a.html
 * https://support.unity3d.com/hc/en-us/articles/206116386-How-do-I-play-multiple-Audio-Sources-from-one-GameObject-
 
+
 ## Default
+
+* https://ecrettmusic.itch.io/ecrett-music
+* https://docs.unity3d.com/Manual/webgl-audio.html
+* https://answers.unity.com/questions/987850/can-onaudiofilterread-be-used-with-webgl.html
+* https://techblog.kayac.com/dynamic-waveform-generation-without-audio-clip
+* https://www.konsfik.com/procedural-audio-made-in-unity3d/
+* [Simple DirectMedia Layer](https://www.libsdl.org)
 
 * Tools: LMMS, FL Studio, BFXR, FamiTracker, Ableton, Bosca Ceoil, FastTracker 2, uppercussion
 * Audacity
@@ -51,6 +61,7 @@
 * http://www.pulseboy.com
 
 ### Articles
+* https://www.reddit.com/r/Unity3D/comments/ag4cji/how_does_onaudiofilterread_works/
 * https://gamedevbeginner.com/10-unity-audio-tips-that-you-wont-find-in-the-tutorials/
 * https://forum.unity.com/threads/dynamic-music-in-unity-examples.297631/
 * https://www.gamasutra.com/blogs/GrahamTattersall/20190515/342454/Coding_to_the_Beat__Under_the_Hood_of_a_Rhythm_Game_in_Unity.php

@@ -20,6 +20,8 @@
 * Synthesia
 * JUCE
 
+https://www.algoexpert.io
+
 https://awesomeopensource.com
 
 https://codeinstitute.net/5-day-coding-challenge/
@@ -43,10 +45,6 @@ Article: https://www.investopedia.com/articles/personal-finance/102015/series-b-
 * https://www.udemy.com
 * https://www.coursera.org
 
-### Freelance
-* https://www.upwork.com
-* https://www.fiverr.com
-* https://www.freelancer.com
 
 ### Cheatsheets
 
@@ -67,8 +65,16 @@ https://www.careercup.com
   * e.g. [greatest achievement](https://www.mockquestions.com/interview/Common+Interview+Questions/What-is-your-greatest-achievement-so-far%3F-GQT23197160.html)
   * e.g. [greatest challenge](https://www.mockquestions.com/interview/Competency/Give-me-an-example-of-a-challenge-you-overcame-in--GQT67914.html)
 
+https://www.quora.com/Whats-the-best-way-to-get-a-part-time-programming-job
+
 https://stackoverflow.com/jobs/companies/quantcast
 
 https://www.totaljobs.com/insidejob/5-rookie-mistakes-avoid-job-searching
+
+### Freelance
+* https://www.upwork.com
+* https://www.fiverr.com
+* https://www.freelancer.com
+
 
 <!-- ### GithubRepo -->

@@ -21,6 +21,7 @@ Multiple Inheritance: Python, C++
 
 ### Comment
 * Python: single line (#), multiple lines (''' or """)
+* Java: //
 
 ### Formatting Strings
 * Python:
@@ -36,8 +37,31 @@ Multiple Inheritance: Python, C++
 * Java: A.length; aString.length()
 * C++: A.size()
 
+### Print
+* Java: System.out.println(var + " ");
+
+### Array
+* Java: dataType[] arrayRefVar; dataType arrayRefVar[];
+  * dataType[] arrayRefVar = new dataType[arraySize];
+  * dataType[] arrayRefVar = {value0, value1, ..., valuek};
+* C/C++: dataType arrayRefVar[];
+
 ### Float Calculation
-* Python: 3 / 2 (=1.5); 0.1+0.1-0.2 (!=0)
+* Python: 3 / 2 (=1.5); 3 // 2 (=1); 0.1+0.1-0.2 (!=0)
+* Java: 3.0 / 2 (=1.5); 3 / 2 (=1)
+
+### Type
+* Python: int, float, str, bool, NoneType
+* Java: int, double, long, Boolean, String, Character
+
+### Operator
+Python:
+Java: &&
+
+### Infinite
+Python: float("inf"), float("-inf")
+C++: INT_MAX, INT_MIN
+Java: Integer.MAX_VALUE, Integer.MIN_VALUE
 
 ### Initialise
 * Python: thisInstance = TheClass()
@@ -56,6 +80,8 @@ Multiple Inheritance: Python, C++
 
 ### Default
 
+myList = [0] * n
+
 decorator: @; wrapper (e.g. timer)
 
 generator: yield
@@ -71,6 +97,8 @@ set: add(), update()
 timeit
 
 {}.fromkeys()
+
+if 1 <= x <= 2:
 
 ### Tips
 
@@ -118,8 +146,48 @@ long = 2 * short, double = 2 * float, long double = 2 * double
 
 static, extern
 
-<!-- ## C++
-map, vector -->
+## C++
+
+inline functions: substitution performed by compiler.
+
+const:
+read from right to left;
+the first const can be on either side.
+
+nullptr is pointer-type; NULL is value-type int.
+
+Const check compile time
+
+free() for malloc();
+delete for new.
+
+typename / class can be replaced in template<>
+
+Abstract class: if including pure virtual function.
+
+* objectName/reference.memberName
+* pointer->memberName
+* className::memberName
+
+virtual, override, final
+
+private by default
+
+overloaded as streaming operators ( << then means stream out, >> stream in
+
+
+## Java
+List:ArrayList, Set:HashSet, Map:HashMap
+
+
+int[] A = new int[N];
+A[A.length-1]
+
+Math.max()
+s.charAt()
+Set<Character> set = new HashSet<>();
+Deque<Integer> monoq = new LinkedList();
+
 
 ## C\#
 
