@@ -86,7 +86,9 @@ Hint: how many possible ways.
 * [350.	Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)
 <!-- 136	Single Number
 349. Intersection of Two Arrays
-448	Find All Numbers Disappeared in an Array -->
+448	Find All Numbers Disappeared in an Array
+905. Sort Array By Parity
+-->
 
 ### Queue/Stack
 * [155.	Min Stack](https://leetcode.com/problems/min-stack)
@@ -107,7 +109,9 @@ Hint: how many possible ways.
 * Mid:
   * 19.	Remove Nth Node From End of List
   * 24.	Swap Nodes in Pairs
-  * 328.	Odd Even Linked List -->
+  * 328.	Odd Even Linked List
+  * 143. Reorder List
+  -->
 
 
 ### Tree
@@ -127,6 +131,8 @@ Hint: how many possible ways.
 110	Balanced Binary Tree   
 * 543.	Diameter of Binary Tree
 * 617.	Merge Two Binary Trees
+
+404. Sum of Left Leaves
 
 * BST:
   * 235. Lowest Common Ancestor of a Binary Search Tree
