@@ -138,6 +138,9 @@ Hint: how many possible ways.
   * 235. Lowest Common Ancestor of a Binary Search Tree
   * 108.	Convert Sorted Array to Binary Search Tree
   * 538.	Convert BST to Greater Tree -->
+### Graph
+* Hard
+    * [952. Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/)
 
 ### Char/Str
 * Easy
@@ -217,6 +220,7 @@ Mid:
 * 50. Pow(x, n)
 * 705. Design HashSet
 * 211. Add and Search Word - Data structure design
+* 969. Pancake Sorting
 
 ---
 ## Tier V: To Do List
