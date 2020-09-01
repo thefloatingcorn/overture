@@ -70,13 +70,16 @@ Hint: how many possible ways.
 
 
 ### Divide and Conquer / (Recursion)
-* [53.	Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
+* [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
 * [169.	Majority Element](https://leetcode.com/problems/majority-element)
 
 ### Greedy
 * [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
 * [860. Lemonade Change](https://leetcode.com/problems/lemonade-change)
 * [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
+
+### Backtracking
+* [949. Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/)
 
 ---
 ## Tier II: Structures
@@ -136,8 +139,10 @@ Hint: how many possible ways.
 
 * BST:
   * 235. Lowest Common Ancestor of a Binary Search Tree
-  * 108.	Convert Sorted Array to Binary Search Tree
-  * 538.	Convert BST to Greater Tree -->
+  * 108. Convert Sorted Array to Binary Search Tree
+  * 538. Convert BST to Greater Tree
+  * 450. Delete Node in a BST
+  -->
 ### Graph
 * Hard
     * [952. Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/)

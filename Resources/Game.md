@@ -21,6 +21,7 @@ Itch.io
   * https://ldjam.com
 
 ### Websites
+* https://www.gamedev.london
 * https://www.mcvuk.com
 * https://toucharcade.com
 * http://www.gamesindustry.biz
