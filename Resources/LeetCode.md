@@ -226,7 +226,7 @@ Mid:
 * 705. Design HashSet
 * 211. Add and Search Word - Data structure design
 * 969. Pancake Sorting
-
+* 220. Contains Duplicate III
 ---
 ## Tier V: To Do List
 * InOrderEasyOnly@: 371
