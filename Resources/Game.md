@@ -21,6 +21,7 @@ Itch.io
   * https://ldjam.com
 
 ### Websites
+* https://gamejolt.com
 * https://www.coregames.com
 * https://www.gamedev.london
 * https://www.mcvuk.com

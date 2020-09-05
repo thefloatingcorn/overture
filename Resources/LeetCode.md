@@ -77,6 +77,7 @@ Hint: how many possible ways.
 * [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
 * [860. Lemonade Change](https://leetcode.com/problems/lemonade-change)
 * [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
+* [763. Partition Labels](https://leetcode.com/problems/partition-labels/)
 
 ### Backtracking
 * [949. Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/)
@@ -136,6 +137,7 @@ Hint: how many possible ways.
 * 617.	Merge Two Binary Trees
 
 404. Sum of Left Leaves
+1305. All Elements in Two Binary Search Trees
 
 * BST:
   * 235. Lowest Common Ancestor of a Binary Search Tree
@@ -159,10 +161,11 @@ Hint: how many possible ways.
 
 <!--
 205. Isomorphic Strings
-* 344.	Reverse String
-* 383.	Ransom Note
-* 387.	First Unique Character in a String
-* 771.	Jewels and Stones
+* 344. Reverse String
+* 383. Ransom Note
+* 387. First Unique Character in a String
+* 459. Repeated Substring Pattern
+* 771. Jewels and Stones
 20	Valid Parentheses
 242	Valid Anagram
 290. Word Pattern
