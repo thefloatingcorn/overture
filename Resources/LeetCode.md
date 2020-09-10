@@ -117,11 +117,14 @@ Hint: how many possible ways.
   * 143. Reorder List
   -->
 
+### Hash table
+* [290. Word Pattern](https://leetcode.com/problems/word-pattern/)
 
 ### Tree
 * [104.	Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)
 * [101.	Symmetric Tree](https://leetcode.com/problems/symmetric-tree)
 * [226.	Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)
+<!-- 1022. Sum of Root To Leaf Binary Numbers -->
 
 * Binary Tree Traversal:
   * 94 Inorder, 102 Level Order, 144 Preorder, 145 Postorder
@@ -168,7 +171,6 @@ Hint: how many possible ways.
 * 771. Jewels and Stones
 20	Valid Parentheses
 242	Valid Anagram
-290. Word Pattern
 299. Bulls and Cows
 345. Reverse Vowels of a String
 520. Detect Capital
@@ -230,6 +232,7 @@ Mid:
 * 211. Add and Search Word - Data structure design
 * 969. Pancake Sorting
 * 220. Contains Duplicate III
+* 835. Image Overlap
 ---
 ## Tier V: To Do List
 * InOrderEasyOnly@: 371
