@@ -64,6 +64,7 @@ Hint: how many possible ways.
   * [62. Unique Paths](https://leetcode.com/problems/unique-paths)
   * [322. Coin Change](https://leetcode.com/problems/coin-change)
   * [688. Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard)
+  <!-- 152. Maximum Product Subarray -->
 <!-- 204. Count Primes -->
 <!-- 119 Pascal's Triangle II-->
 <!-- 674. Longest Continuous Increasing Subsequence -->
@@ -81,6 +82,7 @@ Hint: how many possible ways.
 
 ### Backtracking
 * [949. Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/)
+* [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)
 
 ---
 ## Tier II: Structures
