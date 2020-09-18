@@ -235,6 +235,7 @@ Mid:
 * 969. Pancake Sorting
 * 220. Contains Duplicate III
 * 835. Image Overlap
+* 1041. Robot Bounded In Circle
 ---
 ## Tier V: To Do List
 * InOrderEasyOnly@: 371
@@ -243,5 +244,6 @@ Mid:
 * 2pointer: 11
 * Graph: 200, 547
 * Greedy: 455, 874
+* Trie: 421
 
 https://leetcode.com/explore/interview/card/top-interview-questions-easy/

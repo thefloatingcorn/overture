@@ -7,20 +7,19 @@
 * Math
 * Regular Expression
 * SQL
+* Programming Languages
+* English
 
 ## Raw
 
 ### Default
 
-Unity: Debug.DrawRay
+* Unity: Debug.DrawRay
+* Pandas: set_index
+* \0 is null character
+* differential equations
 
-\0 is null character
-
-Pandas: set_index
-
-differential equations:
-
-NumPy:
+### NumPy:
 * array vs list
   * not varying length
   * elements same type
@@ -37,13 +36,9 @@ pass-by-value | pass-by-reference
 
 ### statistics
 
-3 sigma rule:
+* 3 sigma rule:
 1-68%, 1.65-90%, 1.96-95%, 2.58-99%, 3-99.7%
-
-center: Mean, median, mode
-
-variability: range, standard deviation
-
-percentile
-
-Histogram
+* center: Mean, median, mode
+* variability: range, standard deviation
+* percentile
+* Histogram
