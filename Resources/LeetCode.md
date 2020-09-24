@@ -83,6 +83,7 @@ Hint: how many possible ways.
 ### Backtracking
 * [949. Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/)
 * [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)
+* [980. Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)
 
 ---
 ## Tier II: Structures
@@ -202,6 +203,7 @@ Mid:
 292. Nim Game
 Mid:
 592. Fraction Addition and Subtraction
+1291. Sequential Digits
 -->
 
 ### SQL
@@ -220,14 +222,15 @@ Mid:
 * Sort: 215
 * Design data structure: 706
 * DFS: 200,
+* Majority Element: 229
 ---
 
 ## Tier IV: Unclassified
 * 509. Fibonacci Number
-* 581	Shortest Unsorted Continuous Subarray
-* 189	Rotate Array
-* 78	Subsets    
-* 90	Subsets II  
+* 581. Shortest Unsorted Continuous Subarray
+* 189. Rotate Array
+* 78. Subsets    
+* 90. Subsets II  
 * 134. Gas Station
 * 50. Pow(x, n)
 * 705. Design HashSet
@@ -236,6 +239,7 @@ Mid:
 * 220. Contains Duplicate III
 * 835. Image Overlap
 * 1041. Robot Bounded In Circle
+* 1094. Car Pooling
 ---
 ## Tier V: To Do List
 * InOrderEasyOnly@: 371

@@ -1,7 +1,7 @@
 # Game Sound
 
 ## Unity Assets
-[usfxr - Procedural Sound Effects](https://assetstore.unity.com/packages/tools/audio/usfxr-procedural-sound-effects-18619)
+* [usfxr - Procedural Sound Effects](https://assetstore.unity.com/packages/tools/audio/usfxr-procedural-sound-effects-18619)
 : a port of Tomas Pettersson's sfxr.
 * [Sound Controller](https://assetstore.unity.com/packages/tools/audio/sound-controller-99032)
 : free open source alternative to Audio Toolkit.
