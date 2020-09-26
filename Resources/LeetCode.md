@@ -85,6 +85,9 @@ Hint: how many possible ways.
 * [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)
 * [980. Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)
 
+### One-Pass
+* [179. Largest Number](https://leetcode.com/problems/teemo-attacking/)
+
 ---
 ## Tier II: Structures
 
@@ -181,6 +184,7 @@ Hint: how many possible ways.
 Mid:
 49. Group Anagrams
 166. Fraction to Recurring Decimal
+179. Largest Number
   -->
 
 ### Bit
@@ -226,20 +230,20 @@ Mid:
 ---
 
 ## Tier IV: Unclassified
-* 509. Fibonacci Number
-* 581. Shortest Unsorted Continuous Subarray
-* 189. Rotate Array
-* 78. Subsets    
-* 90. Subsets II  
-* 134. Gas Station
-* 50. Pow(x, n)
-* 705. Design HashSet
-* 211. Add and Search Word - Data structure design
-* 969. Pancake Sorting
-* 220. Contains Duplicate III
-* 835. Image Overlap
-* 1041. Robot Bounded In Circle
-* 1094. Car Pooling
+* [509. Fibonacci Number]
+* [581. Shortest Unsorted Continuous Subarray]
+* [189. Rotate Array]
+* [78. Subsets]
+* [90. Subsets II]
+* [134. Gas Station]
+* [50. Pow(x, n)]
+* [705. Design HashSet]
+* [211. Add and Search Word - Data structure design]
+* [969. Pancake Sorting]
+* [220. Contains Duplicate III]
+* [835. Image Overlap]
+* [1041. Robot Bounded In Circle]
+* [1094. Car Pooling]
 ---
 ## Tier V: To Do List
 * InOrderEasyOnly@: 371
