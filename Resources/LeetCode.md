@@ -155,6 +155,8 @@ Hint: how many possible ways.
   * 450. Delete Node in a BST
   -->
 ### Graph
+* Mid
+    * [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/)
 * Hard
     * [952. Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/)
 
@@ -227,6 +229,7 @@ Mid:
 * Design data structure: 706
 * DFS: 200,
 * Majority Element: 229
+* Subarray: 713
 ---
 
 ## Tier IV: Unclassified
@@ -244,14 +247,14 @@ Mid:
 * [835. Image Overlap]
 * [1041. Robot Bounded In Circle]
 * [1094. Car Pooling]
+* [41. First Missing Positive]
 ---
 ## Tier V: To Do List
 * InOrderEasyOnly@: 371
-* D&C: 17, 50, 78
-* trie: 208
+* D&C: 17, 50, 78 
 * 2pointer: 11
 * Graph: 200, 547
 * Greedy: 455, 874
-* Trie: 421
+* Trie: 139, 208, 421
 
 https://leetcode.com/explore/interview/card/top-interview-questions-easy/
