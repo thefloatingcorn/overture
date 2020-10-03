@@ -84,6 +84,8 @@ Hint: how many possible ways.
 * [949. Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/)
 * [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)
 * [980. Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)
+* Mid:
+  * [39. Combination Sum](https://leetcode.com/problems/combination-sum/)
 
 ### One-Pass
 * [179. Largest Number](https://leetcode.com/problems/teemo-attacking/)
@@ -125,6 +127,8 @@ Hint: how many possible ways.
 
 ### Hash table
 * [290. Word Pattern](https://leetcode.com/problems/word-pattern/)
+* Mid:
+  * [532. K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)
 
 ### Tree
 * [104.	Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)
@@ -248,6 +252,8 @@ Mid:
 * [1041. Robot Bounded In Circle]
 * [1094. Car Pooling]
 * [41. First Missing Positive]
+* [933. Number of Recent Calls]
+
 ---
 ## Tier V: To Do List
 * InOrderEasyOnly@: 371
