@@ -130,6 +130,7 @@ Itch.io
 * https://forums.unrealengine.com/development-discussion/c-gameplay-programming/120625-basic-c-tutorial-problem-with-undefined-identifiers
 * https://forums.unrealengine.com/development-discussion/c-gameplay-programming/1473612-can-t-cast-to-uscenecomponent
 * https://forums.unrealengine.com/community/general-discussion/119897-macos-metal-and-xcode-message
+* https://www.orfeasel.com/deleting-a-c-class/
 
 ### Example Projects
 * https://docs.unrealengine.com/en-US/Resources/SampleGames/index.html
