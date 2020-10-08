@@ -24,6 +24,7 @@ Hint:
   * [278. First Bad Version](https://leetcode.com/problems/first-bad-version)
   * [69. Sqrt(x)](https://leetcode.com/problems/sqrtx)
   * [35. Search Insert Position](https://leetcode.com/problems/search-insert-position)
+  * [704. Binary Search](https://leetcode.com/problems/binary-search)
 * Mid:
   * [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)
   * [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)  
@@ -90,6 +91,10 @@ Hint: how many possible ways.
 ### One-Pass
 * [179. Largest Number](https://leetcode.com/problems/teemo-attacking/)
 
+## Sorting
+* Mid:
+  * [1288. Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/)
+
 ---
 ## Tier II: Structures
 
@@ -108,10 +113,12 @@ Hint: how many possible ways.
 * [232.	Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks)
 
 ### LinkedList
-* [237.	Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list)
-* [203.	Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements)
-* [206.	Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)
-
+* Easy:
+  * [237.	Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list)
+  * [203.	Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements)
+  * [206.	Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)
+* Mid:
+  * [61. Rotate List](https://leetcode.com/problems/rotate-list/)
 <!-- * [21.	Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)
 * [141.	Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)
 * [160.	Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) -->
@@ -157,6 +164,7 @@ Hint: how many possible ways.
   * 108. Convert Sorted Array to Binary Search Tree
   * 538. Convert BST to Greater Tree
   * 450. Delete Node in a BST
+  * 701. Insert into a Binary Search Tree
   -->
 ### Graph
 * Mid
@@ -197,7 +205,7 @@ Mid:
 * [190.	Reverse Bits](https://leetcode.com/problems/reverse-bits)
 * [191.	Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits)
 * [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers)
-
+* [1009. Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer)
 ---
 
 ## Tier III: Topics
