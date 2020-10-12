@@ -76,10 +76,13 @@ Hint: how many possible ways.
 * [169.	Majority Element](https://leetcode.com/problems/majority-element)
 
 ### Greedy
-* [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
-* [860. Lemonade Change](https://leetcode.com/problems/lemonade-change)
-* [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
-* [763. Partition Labels](https://leetcode.com/problems/partition-labels/)
+* Easy:
+  * [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
+  * [860. Lemonade Change](https://leetcode.com/problems/lemonade-change)
+  * [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
+  * [763. Partition Labels](https://leetcode.com/problems/partition-labels/)
+* Mid:
+  * [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
 
 ### Backtracking
 * [949. Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/)
@@ -108,9 +111,12 @@ Hint: how many possible ways.
 -->
 
 ### Queue/Stack
-* [155.	Min Stack](https://leetcode.com/problems/min-stack)
-* [225.	Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues)
-* [232.	Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks)
+* Easy:
+  * [155.	Min Stack](https://leetcode.com/problems/min-stack)
+  * [225.	Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues)
+  * [232.	Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks)
+* Mid:
+  * [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)
 
 ### LinkedList
 * Easy:
@@ -165,6 +171,7 @@ Hint: how many possible ways.
   * 538. Convert BST to Greater Tree
   * 450. Delete Node in a BST
   * 701. Insert into a Binary Search Tree
+  * 449. Serialize and Deserialize BST
   -->
 ### Graph
 * Mid
@@ -261,6 +268,7 @@ Mid:
 * [1094. Car Pooling]
 * [41. First Missing Positive]
 * [933. Number of Recent Calls]
+* [859. Buddy Strings]
 
 ---
 ## Tier V: To Do List
