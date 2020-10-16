@@ -28,6 +28,7 @@ Hint:
 * Mid:
   * [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)
   * [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)  
+  * [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
   * [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)
 * Hard:
   * [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)
@@ -69,11 +70,13 @@ Hint: how many possible ways.
 <!-- 204. Count Primes -->
 <!-- 119 Pascal's Triangle II-->
 <!-- 674. Longest Continuous Increasing Subsequence -->
+<!-- 213. House Robber II -->
 
 
 ### Divide and Conquer / (Recursion)
 * [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
 * [169.	Majority Element](https://leetcode.com/problems/majority-element)
+* [148. Sort List](https://leetcode.com/problems/sort-list/)
 
 ### Greedy
 * Easy:
@@ -104,6 +107,7 @@ Hint: how many possible ways.
 ### Array/List
 * [268.	Missing Number](https://leetcode.com/problems/missing-number)
 * [350.	Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)
+* [189. Rotate Array](https://leetcode.com/problems/rotate-array/)
 <!-- 136	Single Number
 349. Intersection of Two Arrays
 448	Find All Numbers Disappeared in an Array
