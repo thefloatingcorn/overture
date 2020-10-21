@@ -67,6 +67,8 @@ Hint: how many possible ways.
   * [322. Coin Change](https://leetcode.com/problems/coin-change)
   * [688. Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard)
   <!-- 152. Maximum Product Subarray -->
+* Hard:
+  * [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/solution/)
 <!-- 204. Count Primes -->
 <!-- 119 Pascal's Triangle II-->
 <!-- 674. Longest Continuous Increasing Subsequence -->
@@ -95,7 +97,10 @@ Hint: how many possible ways.
   * [39. Combination Sum](https://leetcode.com/problems/combination-sum/)
 
 ### One-Pass
-* [179. Largest Number](https://leetcode.com/problems/teemo-attacking/)
+* Easy:
+  * [179. Largest Number](https://leetcode.com/problems/teemo-attacking/)
+* Mid:
+  * [1007. Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)
 
 ## Sorting
 * Mid:
@@ -146,6 +151,7 @@ Hint: how many possible ways.
 * [290. Word Pattern](https://leetcode.com/problems/word-pattern/)
 * Mid:
   * [532. K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)
+  * [187. Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)
 
 ### Tree
 * [104.	Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)
@@ -179,6 +185,7 @@ Hint: how many possible ways.
   -->
 ### Graph
 * Mid
+    * [133. Clone Graph](https://leetcode.com/problems/clone-graph/)
     * [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/)
 * Hard
     * [952. Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/)
