@@ -126,6 +126,7 @@ Hint: how many possible ways.
   * [232.	Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks)
 * Mid:
   * [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)
+  * [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)
 
 ### LinkedList
 * Easy:
@@ -155,6 +156,7 @@ Hint: how many possible ways.
 
 ### Tree
 * [104.	Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)
+* [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 * [101.	Symmetric Tree](https://leetcode.com/problems/symmetric-tree)
 * [226.	Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)
 <!-- 1022. Sum of Root To Leaf Binary Numbers -->
