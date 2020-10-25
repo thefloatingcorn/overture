@@ -30,6 +30,7 @@ Hint:
   * [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)  
   * [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
   * [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)
+  * [456. 132 Pattern](https://leetcode.com/problems/132-pattern/)
 * Hard:
   * [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)
   <!--
@@ -69,6 +70,7 @@ Hint: how many possible ways.
   <!-- 152. Maximum Product Subarray -->
 * Hard:
   * [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/solution/)
+  * [1510. Stone Game IV](https://leetcode.com/problems/stone-game-iv/)
 <!-- 204. Count Primes -->
 <!-- 119 Pascal's Triangle II-->
 <!-- 674. Longest Continuous Increasing Subsequence -->
@@ -88,6 +90,7 @@ Hint: how many possible ways.
   * [763. Partition Labels](https://leetcode.com/problems/partition-labels/)
 * Mid:
   * [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
+  * [948. Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)
 
 ### Backtracking
 * [949. Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/)
