@@ -45,6 +45,8 @@ Hint: in-place
   * [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)
   * [27. Remove Element](https://leetcode.com/problems/remove-element)
   * [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)
+* Mid:
+  * [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
 * Hard:
   * [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)
 
@@ -285,6 +287,8 @@ Mid:
 * [41. First Missing Positive]
 * [933. Number of Recent Calls]
 * [859. Buddy Strings]
+* [799. Champagne Tower]
+* [228. Summary Ranges]
 
 ---
 ## Tier V: To Do List
