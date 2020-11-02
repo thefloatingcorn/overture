@@ -47,6 +47,7 @@ Hint: in-place
   * [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)
 * Mid:
   * [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
+  * [849. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)
 * Hard:
   * [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)
 
@@ -69,6 +70,7 @@ Hint: how many possible ways.
   * [62. Unique Paths](https://leetcode.com/problems/unique-paths)
   * [322. Coin Change](https://leetcode.com/problems/coin-change)
   * [688. Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard)
+  * [673. Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
   <!-- 152. Maximum Product Subarray -->
 * Hard:
   * [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/solution/)
@@ -183,12 +185,13 @@ Hint: how many possible ways.
 1305. All Elements in Two Binary Search Trees
 
 * BST:
-  * 235. Lowest Common Ancestor of a Binary Search Tree
-  * 108. Convert Sorted Array to Binary Search Tree
-  * 538. Convert BST to Greater Tree
-  * 450. Delete Node in a BST
-  * 701. Insert into a Binary Search Tree
-  * 449. Serialize and Deserialize BST
+  * [99. Recover Binary Search Tree]
+  * [235. Lowest Common Ancestor of a Binary Search Tree]
+  * [108. Convert Sorted Array to Binary Search Tree]
+  * [538. Convert BST to Greater Tree]
+  * [450. Delete Node in a BST]
+  * [701. Insert into a Binary Search Tree]
+  * [449. Serialize and Deserialize BST]
   -->
 ### Graph
 * Mid
