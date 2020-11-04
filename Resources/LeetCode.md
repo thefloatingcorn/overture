@@ -106,12 +106,14 @@ Hint: how many possible ways.
 ### One-Pass
 * Easy:
   * [179. Largest Number](https://leetcode.com/problems/teemo-attacking/)
+  * [1446. Consecutive Characters](https://leetcode.com/problems/consecutive-characters/solution/)
 * Mid:
   * [1007. Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)
 
 ## Sorting
 * Mid:
   * [1288. Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/)
+  * [147. Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)
 
 ---
 ## Tier II: Structures
@@ -234,6 +236,7 @@ Mid:
 * [191.	Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits)
 * [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers)
 * [1009. Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer)
+* [1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)
 ---
 
 ## Tier III: Topics
