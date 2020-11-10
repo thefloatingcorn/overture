@@ -164,14 +164,19 @@ Hint: how many possible ways.
   * [187. Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)
 
 ### Tree
-* [104.	Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)
-* [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
-* [101.	Symmetric Tree](https://leetcode.com/problems/symmetric-tree)
-* [226.	Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)
-<!-- 1022. Sum of Root To Leaf Binary Numbers -->
+* Easy:
+  * [104.	Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)
+  * [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
+  * [101.	Symmetric Tree](https://leetcode.com/problems/symmetric-tree)
+  * [226.	Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)
+  <!-- 1022. Sum of Root To Leaf Binary Numbers -->
+* Mid:
+  * [1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)
+  * [310. Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)
 
-* Binary Tree Traversal:
-  * 94 Inorder, 102 Level Order, 144 Preorder, 145 Postorder
+* Binary Tree:
+  * Traversal: 94 Inorder, 102 Level Order, 144 Preorder, 145 Postorder
+  * [563. Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)
 
 <!--
 *257. Binary Tree Paths*
@@ -295,6 +300,8 @@ Mid:
 * [859. Buddy Strings]
 * [799. Champagne Tower]
 * [228. Summary Ranges]
+* [1217. Minimum Cost to Move Chips to The Same Position]
+* [832. Flipping an Image]
 
 ---
 ## Tier V: To Do List
