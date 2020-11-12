@@ -102,6 +102,7 @@ Hint: how many possible ways.
 * [980. Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)
 * Mid:
   * [39. Combination Sum](https://leetcode.com/problems/combination-sum/)
+  * [47. Permutations II](https://leetcode.com/problems/permutations-ii/)
 
 ### One-Pass
 * Easy:
@@ -302,7 +303,8 @@ Mid:
 * [228. Summary Ranges]
 * [1217. Minimum Cost to Move Chips to The Same Position]
 * [832. Flipping an Image]
-
+* [593. Valid Square]
+* [1217. Minimum Cost to Move Chips to The Same Position]
 ---
 ## Tier V: To Do List
 * InOrderEasyOnly@: 371
