@@ -31,6 +31,7 @@ Hint:
   * [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
   * [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)
   * [456. 132 Pattern](https://leetcode.com/problems/132-pattern/)
+  * [1283. Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)
 * Hard:
   * [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)
   <!--
@@ -145,6 +146,7 @@ Hint: how many possible ways.
   * [206.	Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)
 * Mid:
   * [61. Rotate List](https://leetcode.com/problems/rotate-list/)
+  * [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)
 <!-- * [21.	Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)
 * [141.	Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)
 * [160.	Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) -->
@@ -178,7 +180,16 @@ Hint: how many possible ways.
 * Binary Tree:
   * Traversal: 94 Inorder, 102 Level Order, 144 Preorder, 145 Postorder
   * [563. Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)
-
+  * [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
+* BST:
+  * [99. Recover Binary Search Tree]()
+  * [235. Lowest Common Ancestor of a Binary Search Tree]()
+  * [108. Convert Sorted Array to Binary Search Tree]()
+  * [538. Convert BST to Greater Tree]()
+  * [450. Delete Node in a BST]()
+  * [701. Insert into a Binary Search Tree]()
+  * [449. Serialize and Deserialize BST]()
+  
 <!--
 *257. Binary Tree Paths*
 111	Minimum Depth of Binary Tree    
@@ -188,19 +199,10 @@ Hint: how many possible ways.
 110	Balanced Binary Tree   
 * 543.	Diameter of Binary Tree
 * 617.	Merge Two Binary Trees
-
 404. Sum of Left Leaves
 1305. All Elements in Two Binary Search Trees
-
-* BST:
-  * [99. Recover Binary Search Tree]
-  * [235. Lowest Common Ancestor of a Binary Search Tree]
-  * [108. Convert Sorted Array to Binary Search Tree]
-  * [538. Convert BST to Greater Tree]
-  * [450. Delete Node in a BST]
-  * [701. Insert into a Binary Search Tree]
-  * [449. Serialize and Deserialize BST]
-  -->
+-->
+  
 ### Graph
 * Mid
     * [133. Clone Graph](https://leetcode.com/problems/clone-graph/)
