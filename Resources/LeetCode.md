@@ -49,6 +49,7 @@ Hint: in-place
 * Mid:
   * [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
   * [849. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)
+  * [845. Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)
 * Hard:
   * [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)
 
@@ -182,7 +183,8 @@ Hint: how many possible ways.
   * [563. Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)
   * [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
 * BST:
-  * [99. Recover Binary Search Tree]()
+  * [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
+  * [99. Recover Binary Search Tree]()
   * [235. Lowest Common Ancestor of a Binary Search Tree]()
   * [108. Convert Sorted Array to Binary Search Tree]()
   * [538. Convert BST to Greater Tree]()
@@ -307,6 +309,7 @@ Mid:
 * [832. Flipping an Image]
 * [593. Valid Square]
 * [1217. Minimum Cost to Move Chips to The Same Position]
+* [458. Poor Pigs]
 ---
 ## Tier V: To Do List
 * InOrderEasyOnly@: 371
