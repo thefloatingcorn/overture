@@ -113,10 +113,15 @@ Hint: how many possible ways.
 * Mid:
   * [1007. Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)
 
-## Sorting
+### Sorting
 * Mid:
   * [1288. Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/)
   * [147. Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)
+  * [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+
+### Simulation
+* Mid:
+  * [858. Mirror Reflection](https://leetcode.com/problems/mirror-reflection/)
 
 ---
 ## Tier II: Structures
@@ -139,6 +144,7 @@ Hint: how many possible ways.
 * Mid:
   * [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)
   * [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)
+  * [394. Decode String](https://leetcode.com/problems/decode-string/)
 
 ### LinkedList
 * Easy:
@@ -247,6 +253,7 @@ Mid:
 * [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers)
 * [1009. Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer)
 * [1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)
+
 ---
 
 ## Tier III: Topics
@@ -308,7 +315,6 @@ Mid:
 * [1217. Minimum Cost to Move Chips to The Same Position]
 * [832. Flipping an Image]
 * [593. Valid Square]
-* [1217. Minimum Cost to Move Chips to The Same Position]
 * [458. Poor Pigs]
 ---
 ## Tier V: To Do List
