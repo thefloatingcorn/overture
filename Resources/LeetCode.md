@@ -32,6 +32,7 @@ Hint:
   * [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)
   * [456. 132 Pattern](https://leetcode.com/problems/132-pattern/)
   * [1283. Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)
+  * [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
 * Hard:
   * [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)
   <!--
@@ -77,10 +78,12 @@ Hint: how many possible ways.
 * Hard:
   * [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/solution/)
   * [1510. Stone Game IV](https://leetcode.com/problems/stone-game-iv/)
+  * [902. Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/)
 <!-- 204. Count Primes -->
 <!-- 119 Pascal's Triangle II-->
 <!-- 674. Longest Continuous Increasing Subsequence -->
 <!-- 213. House Robber II -->
+<!-- 337. House Robber III -->
 
 
 ### Divide and Conquer / (Recursion)
@@ -145,6 +148,7 @@ Hint: how many possible ways.
   * [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)
   * [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)
   * [394. Decode String](https://leetcode.com/problems/decode-string/)
+  * [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)
 
 ### LinkedList
 * Easy:
@@ -168,7 +172,9 @@ Hint: how many possible ways.
   -->
 
 ### Hash table
-* [290. Word Pattern](https://leetcode.com/problems/word-pattern/)
+* Easy:
+  * [290. Word Pattern](https://leetcode.com/problems/word-pattern/)
+  * [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)
 * Mid:
   * [532. K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)
   * [187. Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)
