@@ -61,6 +61,7 @@ Sliding Window:
 * Mid:
   * 209. Minimum Size Subarray Sum
   * 3\.	Longest Substring Without Repeating Characters 
+  * [395. Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)
   -->
 
 ### Dynamic Programming
@@ -74,6 +75,7 @@ Hint: how many possible ways.
   * [322. Coin Change](https://leetcode.com/problems/coin-change)
   * [688. Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard)
   * [673. Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
+  * [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
   <!-- 152. Maximum Product Subarray -->
 * Hard:
   * [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/solution/)
@@ -90,6 +92,7 @@ Hint: how many possible ways.
 * [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
 * [169.	Majority Element](https://leetcode.com/problems/majority-element)
 * [148. Sort List](https://leetcode.com/problems/sort-list/)
+* [395. Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)
 
 ### Greedy
 * Easy:
@@ -322,6 +325,8 @@ Mid:
 * [832. Flipping an Image]
 * [593. Valid Square]
 * [458. Poor Pigs]
+* [1015. Smallest Integer Divisible by K]
+
 ---
 ## Tier V: To Do List
 * InOrderEasyOnly@: 371
