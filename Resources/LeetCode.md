@@ -93,6 +93,7 @@ Hint: how many possible ways.
 * [169.	Majority Element](https://leetcode.com/problems/majority-element)
 * [148. Sort List](https://leetcode.com/problems/sort-list/)
 * [395. Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)
+* [218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)
 
 ### Greedy
 * Easy:
@@ -103,6 +104,9 @@ Hint: how many possible ways.
 * Mid:
   * [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
   * [948. Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)
+  
+### Breadth/Depth-First Search
+* [1306. Jump Game III](https://leetcode.com/problems/jump-game-iii/)
 
 ### Backtracking
 * [949. Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/)
@@ -152,6 +156,8 @@ Hint: how many possible ways.
   * [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)
   * [394. Decode String](https://leetcode.com/problems/decode-string/)
   * [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)
+* Deque:
+  * [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
 
 ### LinkedList
 * Easy:
@@ -226,6 +232,9 @@ Hint: how many possible ways.
     * [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/)
 * Hard
     * [952. Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/)
+
+### Heap
+* [218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)
 
 ### Char/Str
 * Easy
