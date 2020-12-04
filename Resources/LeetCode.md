@@ -167,6 +167,7 @@ Hint: how many possible ways.
 * Mid:
   * [61. Rotate List](https://leetcode.com/problems/rotate-list/)
   * [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)
+  * [382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)
 <!-- * [21.	Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)
 * [141.	Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)
 * [160.	Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) -->
@@ -204,6 +205,7 @@ Hint: how many possible ways.
   * [563. Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)
   * [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
 * BST:
+  * [897. Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)
   * [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
   * [99. Recover Binary Search Tree]()
   * [235. Lowest Common Ancestor of a Binary Search Tree]()
@@ -277,9 +279,12 @@ Mid:
 ## Tier III: Topics
 
 ### Math
-* [7.	Reverse Integer](https://leetcode.com/problems/reverse-integer)
-* [172.	Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes)
-* [202.	Happy Number](https://leetcode.com/problems/happy-number)
+* Easy:
+  * [7.	Reverse Integer](https://leetcode.com/problems/reverse-integer)
+  * [172.	Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes)
+  * [202.	Happy Number](https://leetcode.com/problems/happy-number)
+* Mid:
+  * [1492. The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/)
 <!--
 412.	Fizz Buzz
 258. Add Digits
@@ -288,6 +293,7 @@ Mid:
 Mid:
 592. Fraction Addition and Subtraction
 1291. Sequential Digits
+
 -->
 
 ### SQL
