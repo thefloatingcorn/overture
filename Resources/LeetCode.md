@@ -107,6 +107,7 @@ Hint: how many possible ways.
   
 ### Breadth/Depth-First Search
 * [1306. Jump Game III](https://leetcode.com/problems/jump-game-iii/)
+* [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)
 
 ### Backtracking
 * [949. Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/)
@@ -120,6 +121,7 @@ Hint: how many possible ways.
 * Easy:
   * [179. Largest Number](https://leetcode.com/problems/teemo-attacking/)
   * [1446. Consecutive Characters](https://leetcode.com/problems/consecutive-characters/solution/)
+  * [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)
 * Mid:
   * [1007. Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)
 
@@ -188,6 +190,7 @@ Hint: how many possible ways.
 * Mid:
   * [532. K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)
   * [187. Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)
+  * [1010. Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)
 
 ### Tree
 * Easy:
@@ -341,6 +344,7 @@ Mid:
 * [593. Valid Square]
 * [458. Poor Pigs]
 * [1015. Smallest Integer Divisible by K]
+* [59. Spiral Matrix II]
 
 ---
 ## Tier V: To Do List
