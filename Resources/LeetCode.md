@@ -110,18 +110,21 @@ Hint: how many possible ways.
 * [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)
 
 ### Backtracking
-* [949. Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/)
-* [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)
-* [980. Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)
+* Easy:
+  * [949. Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/)
+  * [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)
+  * [980. Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)
 * Mid:
   * [39. Combination Sum](https://leetcode.com/problems/combination-sum/)
   * [47. Permutations II](https://leetcode.com/problems/permutations-ii/)
+  * [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
 
 ### One-Pass
 * Easy:
   * [179. Largest Number](https://leetcode.com/problems/teemo-attacking/)
   * [1446. Consecutive Characters](https://leetcode.com/problems/consecutive-characters/solution/)
   * [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)
+  * [941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)
 * Mid:
   * [1007. Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)
 
@@ -160,6 +163,7 @@ Hint: how many possible ways.
   * [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)
 * Deque:
   * [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
+  * [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 
 ### LinkedList
 * Easy:
