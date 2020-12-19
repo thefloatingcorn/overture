@@ -81,6 +81,7 @@ Hint: how many possible ways.
   * [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/solution/)
   * [1510. Stone Game IV](https://leetcode.com/problems/stone-game-iv/)
   * [902. Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/)
+  * [1463. Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/)
 <!-- 204. Count Primes -->
 <!-- 119 Pascal's Triangle II-->
 <!-- 674. Longest Continuous Increasing Subsequence -->
@@ -142,14 +143,17 @@ Hint: how many possible ways.
 ## Tier II: Structures
 
 ### Array/List
-* [268.	Missing Number](https://leetcode.com/problems/missing-number)
-* [350.	Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)
-* [189. Rotate Array](https://leetcode.com/problems/rotate-array/)
-<!-- 136	Single Number
-349. Intersection of Two Arrays
-448	Find All Numbers Disappeared in an Array
-905. Sort Array By Parity
--->
+* Easy:
+  * [268.	Missing Number](https://leetcode.com/problems/missing-number)
+  * [350.	Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)
+  * [189. Rotate Array](https://leetcode.com/problems/rotate-array/)
+  <!-- 136	Single Number
+  349. Intersection of Two Arrays
+  448	Find All Numbers Disappeared in an Array
+  905. Sort Array By Parity
+  -->
+* Mid:
+  * [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)
 
 ### Queue/Stack
 * Easy:
@@ -195,6 +199,7 @@ Hint: how many possible ways.
   * [532. K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)
   * [187. Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)
   * [1010. Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)
+  * [454. 4Sum II](https://leetcode.com/problems/4sum-ii/)
 
 ### Tree
 * Easy:
