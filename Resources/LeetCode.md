@@ -216,6 +216,7 @@ Hint: how many possible ways.
   * Traversal: 94 Inorder, 102 Level Order, 144 Preorder, 145 Postorder
   * [563. Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)
   * [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
+  * [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)  
 * BST:
   * [897. Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)
   * [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
@@ -226,6 +227,8 @@ Hint: how many possible ways.
   * [450. Delete Node in a BST]()
   * [701. Insert into a Binary Search Tree]()
   * [449. Serialize and Deserialize BST]()
+  * [173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)
+  * [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
   
 <!--
 *257. Binary Tree Paths*
