@@ -76,6 +76,7 @@ Hint: how many possible ways.
   * [688. Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard)
   * [673. Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
   * [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
+  * [91. Decode Ways](https://leetcode.com/problems/decode-ways/)
   <!-- 152. Maximum Product Subarray -->
 * Hard:
   * [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/solution/)
@@ -109,6 +110,7 @@ Hint: how many possible ways.
 ### Breadth/Depth-First Search
 * [1306. Jump Game III](https://leetcode.com/problems/jump-game-iii/)
 * [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)
+* [1345. Jump Game IV](https://leetcode.com/problems/jump-game-iv/)
 
 ### Backtracking
 * Easy:
@@ -136,8 +138,8 @@ Hint: how many possible ways.
   * [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 
 ### Simulation
-* Mid:
-  * [858. Mirror Reflection](https://leetcode.com/problems/mirror-reflection/)
+* [858. Mirror Reflection](https://leetcode.com/problems/mirror-reflection/)
+* [498. Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)
 
 ---
 ## Tier II: Structures
@@ -178,6 +180,7 @@ Hint: how many possible ways.
   * [61. Rotate List](https://leetcode.com/problems/rotate-list/)
   * [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)
   * [382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)
+  * [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
 <!-- * [21.	Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)
 * [141.	Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)
 * [160.	Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) -->
