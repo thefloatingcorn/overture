@@ -303,6 +303,7 @@ Mid:
   * [202.	Happy Number](https://leetcode.com/problems/happy-number)
 * Mid:
   * [1492. The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/)
+  * [754. Reach a Number](https://leetcode.com/problems/reach-a-number/)
 <!--
 412.	Fizz Buzz
 258. Add Digits
@@ -360,6 +361,8 @@ Mid:
 * [458. Poor Pigs]
 * [1015. Smallest Integer Divisible by K]
 * [59. Spiral Matrix II]
+* [556. Next Greater Element III]
+* [910. Smallest Range II]
 
 ---
 ## Tier V: To Do List
