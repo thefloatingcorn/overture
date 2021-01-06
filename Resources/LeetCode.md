@@ -149,6 +149,7 @@ Hint: how many possible ways.
   * [268.	Missing Number](https://leetcode.com/problems/missing-number)
   * [350.	Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)
   * [189. Rotate Array](https://leetcode.com/problems/rotate-array/)
+  * [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
   <!-- 136	Single Number
   349. Intersection of Two Arrays
   448	Find All Numbers Disappeared in an Array
@@ -220,6 +221,7 @@ Hint: how many possible ways.
   * [563. Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)
   * [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
   * [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)  
+  * [1457. Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)
 * BST:
   * [897. Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)
   * [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
@@ -261,6 +263,8 @@ Hint: how many possible ways.
   * [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)
   * [28. Implement strStr()](https://leetcode.com/problems/implement-strstr)
   * [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word)
+* Mid:
+  * [880. Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/solution/)
 * ord() / chr()
   * [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title)
   * [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number)
