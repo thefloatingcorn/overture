@@ -111,6 +111,7 @@ Hint: how many possible ways.
 * [1306. Jump Game III](https://leetcode.com/problems/jump-game-iii/)
 * [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)
 * [1345. Jump Game IV](https://leetcode.com/problems/jump-game-iv/)
+* [127. Word Ladder](https://leetcode.com/problems/word-ladder/)
 
 ### Backtracking
 * Easy:
@@ -177,6 +178,7 @@ Hint: how many possible ways.
   * [237.	Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list)
   * [203.	Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements)
   * [206.	Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)
+  * [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 * Mid:
   * [61. Rotate List](https://leetcode.com/problems/rotate-list/)
   * [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)
