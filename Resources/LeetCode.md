@@ -106,6 +106,7 @@ Hint: how many possible ways.
 * Mid:
   * [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
   * [948. Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)
+  * [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)
   
 ### Breadth/Depth-First Search
 * [1306. Jump Game III](https://leetcode.com/problems/jump-game-iii/)
@@ -158,6 +159,7 @@ Hint: how many possible ways.
   -->
 * Mid:
   * [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)
+  * [1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)
 
 ### Queue/Stack
 * Easy:
@@ -310,6 +312,7 @@ Mid:
 * Mid:
   * [1492. The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/)
   * [754. Reach a Number](https://leetcode.com/problems/reach-a-number/)
+  * [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 <!--
 412.	Fizz Buzz
 258. Add Digits
