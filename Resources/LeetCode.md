@@ -71,6 +71,7 @@ Hint: how many possible ways.
   * [118.	Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)
   * [198.	House Robber](https://leetcode.com/problems/house-robber)
 * Mid:
+  * [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
   * [62. Unique Paths](https://leetcode.com/problems/unique-paths)
   * [322. Coin Change](https://leetcode.com/problems/coin-change)
   * [688. Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard)
@@ -160,6 +161,7 @@ Hint: how many possible ways.
 * Mid:
   * [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)
   * [1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)
+  * [1679. Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)
 
 ### Queue/Stack
 * Easy:
