@@ -1,7 +1,7 @@
 # Classifying LeetCode
 
 ## Intro
-A classification is built to focus on the essential problems on LeetCode,
+This classification is built to focus on the essential problems on LeetCode,
 referring existing works such as:
 
 https://mincongzhang.gitbooks.io/data_structures_and_algorithms/content/
@@ -16,9 +16,7 @@ https://cspiration.com/leetcodeClassification
 ## Tier I: Methods
 
 ### Binary Search:
-Hint:
-* sorted items
-* runtime complexity in the order of O(log n)
+Hint: sorted items; runtime complexity in the order of O(log n).
 
 * Easy:
   * [278. First Bad Version](https://leetcode.com/problems/first-bad-version)
