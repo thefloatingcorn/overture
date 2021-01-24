@@ -135,6 +135,7 @@ Hint: how many possible ways.
 ### Sorting
 * Mid:
   * [1288. Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/)
+  * [1329. Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/)
   * [147. Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)
   * [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 
@@ -160,6 +161,7 @@ Hint: how many possible ways.
   * [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)
   * [1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)
   * [1679. Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)
+  * [1673. Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/)
 
 ### Queue/Stack
 * Easy:
@@ -198,6 +200,8 @@ Hint: how many possible ways.
   * 328.	Odd Even Linked List
   * 143. Reorder List
   -->
+* Hard:
+  * [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 
 ### Hash table
 * Easy:
@@ -269,6 +273,7 @@ Hint: how many possible ways.
   * [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word)
 * Mid:
   * [880. Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/solution/)
+  * [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/)
 * ord() / chr()
   * [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title)
   * [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number)
