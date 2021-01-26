@@ -67,22 +67,23 @@ Itch.io
 
 
 ## Graphics
-* https://lospec.com
+
 * https://blog.studiominiboss.com/pixelart
 * https://www.spriters-resource.com
 * http://pixelgameart.org/web/
 * https://www.gameart2d.com
 * https://craftpix.net/
 * https://gameartpartners.com/
-* https://www.pixilart.com
-* http://pixelartmaker.com
 
 ### Tools
 * Editor: GIMP, Inkscape, Krita; Affinity Designer, Adobe Illustrator, Photoshop
 * 3D: Blender, MagicaVoxel, Mixamo; Maya, 3ds Max
 * Pixel: PikoPixel, GraphicsGale (Win only), Pixel Studio for pixel art, Grafx2,; Aseprite, Pyxel Edit, Pro Motion NG
 * https://www.piskelapp.com
-* Lospec, paint.net
+* https://www.pixilart.com
+* http://pixelartmaker.com
+* https://lospec.com
+* paint.net
 * Asset Forge
 
 
