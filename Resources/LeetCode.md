@@ -112,6 +112,7 @@ Hint: how many possible ways.
 * [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)
 * [1345. Jump Game IV](https://leetcode.com/problems/jump-game-iv/)
 * [127. Word Ladder](https://leetcode.com/problems/word-ladder/)
+* [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/)
 
 ### Backtracking
 * Easy:
@@ -152,6 +153,7 @@ Hint: how many possible ways.
   * [350.	Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)
   * [189. Rotate Array](https://leetcode.com/problems/rotate-array/)
   * [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
+  * [1437. Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/)
   <!-- 136	Single Number
   349. Intersection of Two Arrays
   448	Find All Numbers Disappeared in an Array
@@ -377,6 +379,7 @@ Mid:
 * [59. Spiral Matrix II]
 * [556. Next Greater Element III]
 * [910. Smallest Range II]
+* [1680. Concatenation of Consecutive Binary Numbers]
 
 ---
 ## Tier V: To Do List
