@@ -49,6 +49,7 @@ Hint: in-place
   * [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
   * [849. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)
   * [845. Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)
+  * [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 * Hard:
   * [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)
 
@@ -76,6 +77,7 @@ Hint: how many possible ways.
   * [673. Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
   * [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
   * [91. Decode Ways](https://leetcode.com/problems/decode-ways/)
+  * [413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)
   <!-- 152. Maximum Product Subarray -->
 * Hard:
   * [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/solution/)
@@ -113,6 +115,9 @@ Hint: how many possible ways.
 * [1345. Jump Game IV](https://leetcode.com/problems/jump-game-iv/)
 * [127. Word Ladder](https://leetcode.com/problems/word-ladder/)
 * [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/)
+* [784. Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)
+* [1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)
+* [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)
 
 ### Backtracking
 * Easy:
@@ -154,6 +159,7 @@ Hint: how many possible ways.
   * [189. Rotate Array](https://leetcode.com/problems/rotate-array/)
   * [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
   * [1437. Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/)
+  * [594. Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)
   <!-- 136	Single Number
   349. Intersection of Two Arrays
   448	Find All Numbers Disappeared in an Array
@@ -175,6 +181,7 @@ Hint: how many possible ways.
   * [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)
   * [394. Decode String](https://leetcode.com/problems/decode-string/)
   * [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)
+  * [71. Simplify Path](https://leetcode.com/problems/simplify-path/)
 * Deque:
   * [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
   * [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
@@ -185,13 +192,14 @@ Hint: how many possible ways.
   * [203.	Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements)
   * [206.	Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)
   * [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+  * [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 * Mid:
   * [61. Rotate List](https://leetcode.com/problems/rotate-list/)
   * [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)
   * [382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)
   * [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
+  * [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
 <!-- * [21.	Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)
-* [141.	Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)
 * [160.	Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) -->
 <!--
 83 Remove Duplicates from Sorted List -->
@@ -227,23 +235,25 @@ Hint: how many possible ways.
   * [310. Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)
 
 * Binary Tree:
-  * Traversal: 94 Inorder, 102 Level Order, 144 Preorder, 145 Postorder
+  * Traversal: 94 Inorder, 102 Level Order, 144 Preorder, 145 Postorder, 987 Vertical
   * [563. Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)
   * [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
   * [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)  
   * [1457. Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)
+  * [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
 * BST:
   * [897. Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)
   * [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
   * [99. Recover Binary Search Tree]()
   * [235. Lowest Common Ancestor of a Binary Search Tree]()
   * [108. Convert Sorted Array to Binary Search Tree]()
-  * [538. Convert BST to Greater Tree]()
+  * [538. Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)
   * [450. Delete Node in a BST]()
   * [701. Insert into a Binary Search Tree]()
   * [449. Serialize and Deserialize BST]()
   * [173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)
   * [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
+  * [669. Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)
   
 <!--
 *257. Binary Tree Paths*
@@ -306,6 +316,7 @@ Mid:
 * [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers)
 * [1009. Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer)
 * [1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)
+* [1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
 
 ---
 
@@ -345,10 +356,11 @@ Mid:
 * Palindrome: 9, 125, 234
 * Power of x: 326, 231, 342
 * Sort: 215
-* Design data structure: 706
+* Design data structure: 706, 284
 * DFS: 200,
 * Majority Element: 229
 * Subarray: 713
+* Heap: 1337
 ---
 
 ## Tier IV: Unclassified
@@ -380,6 +392,7 @@ Mid:
 * [556. Next Greater Element III]
 * [910. Smallest Range II]
 * [1680. Concatenation of Consecutive Binary Numbers]
+* [1663. Smallest String With A Given Numeric Value]
 
 ---
 ## Tier V: To Do List
