@@ -1,69 +1,50 @@
 # Game
 
-## Default
+## Websites
 
-New Grounds
-Tigsource
-GameDev.net
-Reddit
-GameJolt
-DevelTeam
-Itch.io
+* https://itch.io/
+* https://gamejolt.com/
+* https://gamedev.net/
 
-* https://crowdsourcer.io/discover
-* https://www.fig.co
-* https://ninichimusic.com/blog/10-crowdfunding-platforms-to-consider-for-indie-projects
+### Jobs
+* https://www.gamesjobsdirect.com/
+* https://opmjobs.com/
+* https://jobs.gamesindustry.biz/
+* https://gamejobhunter.com/
+* https://intogames.org/careers
+* https://www.workwithindies.com/
+* https://remotegamejobs.com/
 
-* Engine: Godot, PICO-8, Roblox, GameMaker Studio, COCOS, Phaser
-* Sound: https://freesound.org
-* Events:
-  * https://globalgamejam.org
-  * https://ldjam.com
-
-### Websites
-* https://gamejolt.com
-* https://www.coregames.com
-* https://www.gamedev.london
-* https://www.mcvuk.com
-* https://toucharcade.com
-* http://www.gamesindustry.biz
+### Events
+* https://intogames.org/opportunities
 * https://gradsingames.com
-* https://ukiepedia.ukie.org.uk/index.php/Main_Page
+* https://www.gamedev.london
 * https://ukie.org.uk
 * https://gamesmap.uk/
 * http://games.london
 * https://nowplaythis.net
-* http://gamecodeschool.com
-* https://www.tomlooman.com
-* https://www.gamesaid.org
-* https://www.taminggaming.com/home
-* https://www.everyonecan.org.uk
 
-### Art
-* https://opengameart.org
-* https://freesound.org
+### Jams
+* https://globalgamejam.org
+* https://ldjam.com
 
 ### Projects
+* https://crowdsourcer.io/discover
+* https://www.reddit.com/r/gameDevClassifieds/
 * http://thatgamesguy.co.uk
 * https://wsagames.com
 * https://winchester.games
+* https://www.fig.co
+* https://www.develteam.com/
 
-### Articles
-* https://www.gamesindustry.biz/articles/2019-04-11-revealed-the-most-successful-uk-game-developers
-* https://www.packtpub.com/gb/game-development/beginning-c-20-game-programming-second-edition
-* https://transverseaudio.com/posts/best-free-chiptune-vst-synths
+### Media
+* https://www.mcvuk.com
+* https://toucharcade.com
+* http://www.gamesindustry.biz
 
-### Youtube
-
-* https://pixeland.io/blog/recommended-game-development-channels-on-youtube
-
-### Games
-* Default: Fez, Hyper Light Drifter, Crying Suns, Iron Quest, I Keep Having This Dream
-* The Witness, Braid, Undertale, Pony Island
-* Human Resource Machine, Hacknet, Uplink, TIS-100, Opus Magnum, SpaceChem, SHENZHEN I/O
-* Educational: Solar System with Astro Cat, Code Hunt Game
-* Rhythm/music games: "Cadence of Hyrule", "Muse Dash", "Neon Beats", "140", Rhythm Tengoku, Audiosurf, osu!, Piano Ball
-* Business/economic simulation games: Capitalism, Kubifaktorium
+### Organisations
+* https://www.gamesaid.org
+* https://www.everyonecan.org.uk
 
 
 ## Graphics
@@ -88,6 +69,7 @@ Itch.io
 
 
 ## Unity Engine
+
 * https://docs.unity3d.com/Manual/OpenSourceRepositories.html
 * https://github.com/baba-s/awesome-unity-open-source-on-github
 * http://www.procedural-worlds.com/blog/best-free-unity-assets-categorised-mega-list/
@@ -137,3 +119,35 @@ Itch.io
 * https://docs.unrealengine.com/en-US/Resources/SampleGames/index.html
 * https://www.tomlooman.com/survival-sample-game-for-ue4/
 * https://awesomeopensource.com/projects/unreal-engine-4
+
+## Default
+
+* Engine: Core, Godot, PICO-8, Roblox, GameMaker Studio, COCOS, Phaser
+
+### Websites
+* https://www.newgrounds.com/
+* https://www.taminggaming.com/home
+* https://www.tomlooman.com
+* http://gamecodeschool.com
+* Tigsource
+
+### Art
+* https://opengameart.org
+* https://freesound.org
+
+### Articles
+* https://www.gamesindustry.biz/articles/2019-04-11-revealed-the-most-successful-uk-game-developers
+* https://www.packtpub.com/gb/game-development/beginning-c-20-game-programming-second-edition
+* https://transverseaudio.com/posts/best-free-chiptune-vst-synths
+* https://ninichimusic.com/blog/10-crowdfunding-platforms-to-consider-for-indie-projects
+
+### Videos
+* https://pixeland.io/blog/recommended-game-development-channels-on-youtube
+
+### Games
+* Default: Fez, Hyper Light Drifter, Crying Suns, Iron Quest, I Keep Having This Dream
+* The Witness, Braid, Undertale, Pony Island
+* Human Resource Machine, Hacknet, Uplink, TIS-100, Opus Magnum, SpaceChem, SHENZHEN I/O
+* Educational: Solar System with Astro Cat, Code Hunt Game
+* Rhythm/music games: "Cadence of Hyrule", "Muse Dash", "Neon Beats", "140", Rhythm Tengoku, Audiosurf, osu!, Piano Ball
+* Business/economic simulation games: Capitalism, Kubifaktorium
