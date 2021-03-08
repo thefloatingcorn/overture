@@ -11,9 +11,24 @@
 * https://opmjobs.com/
 * https://jobs.gamesindustry.biz/
 * https://gamejobhunter.com/
-* https://intogames.org/careers
 * https://www.workwithindies.com/
 * https://remotegamejobs.com/
+* https://www.ingamerecruitment.com/
+* https://aswift.com/
+* https://gamedevjobs.io/
+* https://gracklehq.com/
+
+
+### Info
+* https://www.gamedevmap.com/
+* https://www.gamedevstudios.com/
+* https://intogames.org/careers
+* https://en.wikipedia.org/wiki/Video_game_programmer
+* https://www.prospects.ac.uk/job-profiles/game-developer
+* https://ukiepedia.ukie.org.uk/index.php/Main_Page
+* https://docs.google.com/document/d/1H34_z043mJrLahXw7fCgwf5w4ZWyrB2GBE9XAXufjmQ/preview 
+* https://docs.google.com/document/d/1H34_z043mJrLahXw7fCgwf5w4ZWyrB2GBE9XAXufjmQ/edit
+* https://docs.google.com/spreadsheets/d/1jUxrLJf9xJVuj55dCr0-DTEkIKebROdABDMC-tdw-yM/edit?usp=sharing
 
 ### Events
 * https://intogames.org/opportunities
@@ -25,17 +40,21 @@
 * https://nowplaythis.net
 
 ### Jams
+* https://itch.io/jams
 * https://globalgamejam.org
 * https://ldjam.com
 
 ### Projects
 * https://crowdsourcer.io/discover
 * https://www.reddit.com/r/gameDevClassifieds/
+* https://www.reddit.com/r/gamejobs/
 * http://thatgamesguy.co.uk
 * https://wsagames.com
 * https://winchester.games
 * https://www.fig.co
 * https://www.develteam.com/
+* https://forums.unrealengine.com/community/got-skills-looking-for-talent
+* https://www.indiedb.com/jobs
 
 ### Media
 * https://www.mcvuk.com
@@ -97,6 +116,8 @@
 
 ## Unreal Engine
 
+* https://maskedsound.com/unrealtutorials
+
 ### General
 * https://github.com/terrehbyte/awesome-ue4
 * https://docs.unrealengine.com/en-US/Resources/index.html
@@ -119,10 +140,12 @@
 * https://docs.unrealengine.com/en-US/Resources/SampleGames/index.html
 * https://www.tomlooman.com/survival-sample-game-for-ue4/
 * https://awesomeopensource.com/projects/unreal-engine-4
+* 
 
 ## Default
 
 * Engine: Core, Godot, PICO-8, Roblox, GameMaker Studio, COCOS, Phaser
+* https://www.ggpo.net/
 
 ### Websites
 * https://www.newgrounds.com/
@@ -140,6 +163,7 @@
 * https://www.packtpub.com/gb/game-development/beginning-c-20-game-programming-second-edition
 * https://transverseaudio.com/posts/best-free-chiptune-vst-synths
 * https://ninichimusic.com/blog/10-crowdfunding-platforms-to-consider-for-indie-projects
+* https://www.theguardian.com/technology/2014/mar/20/how-to-get-into-the-games-industry-an-insiders-guide
 
 ### Videos
 * https://pixeland.io/blog/recommended-game-development-channels-on-youtube
