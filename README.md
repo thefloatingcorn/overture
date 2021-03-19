@@ -1,8 +1,4 @@
 # Notebooks
 
-## Contents
-
-* [Thoughts](https://yy404.github.io/Notebooks/Thoughts)
-* [Resources](https://yy404.github.io/Notebooks/Resources)
-* [Concepts](https://yy404.github.io/Notebooks/Concepts)
-* [Cheatsheets](https://yy404.github.io/Notebooks/Cheatsheets)
+* [Game Development Resources](https://yy404.github.io/Notebooks/Resources/Game)
+* [LeetCode Problem Classifications](https://yy404.github.io/Notebooks/Resources/LeetCode)
