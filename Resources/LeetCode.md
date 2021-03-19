@@ -4,13 +4,10 @@
 This classification is built to focus on the essential problems on LeetCode,
 referring existing works such as:
 
-https://mincongzhang.gitbooks.io/data_structures_and_algorithms/content/
-
-https://algorithm.yuanbin.me/en/
-
-https://blog.csdn.net/weixin_38118016/article/details/90761111
-
-https://cspiration.com/leetcodeClassification
+* [https://mincongzhang.gitbooks.io/data_structures_and_algorithms/content/](https://mincongzhang.gitbooks.io/data_structures_and_algorithms/content/)
+* [https://algorithm.yuanbin.me/en/](https://algorithm.yuanbin.me/en/)
+* [https://blog.csdn.net/weixin_38118016/article/details/90761111](https://blog.csdn.net/weixin_38118016/article/details/90761111)
+* [https://cspiration.com/leetcodeClassification](https://cspiration.com/leetcodeClassification)
 
 ---
 ## Tier I: Methods
@@ -33,7 +30,8 @@ Hint: sorted items; runtime complexity in the order of O(log n).
   * [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
 * Hard:
   * [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)
-  <!--
+
+<!--
   367. Valid Perfect Square
   * Mid:
    -->
@@ -160,7 +158,7 @@ Hint: how many possible ways.
   * [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
   * [1437. Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/)
   * [594. Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)
-  <!-- 136	Single Number
+<!-- 136	Single Number
   349. Intersection of Two Arrays
   448	Find All Numbers Disappeared in an Array
   905. Sort Array By Parity
@@ -339,7 +337,6 @@ Mid:
 Mid:
 592. Fraction Addition and Subtraction
 1291. Sequential Digits
-
 -->
 
 ### SQL
