@@ -158,16 +158,19 @@ Hint: how many possible ways.
   * [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
   * [1437. Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/)
   * [594. Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)
-<!--  136	Single Number
-  349. Intersection of Two Arrays
-  448	Find All Numbers Disappeared in an Array
-  905. Sort Array By Parity
--->
 * Mid:
   * [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)
   * [1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)
   * [1679. Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)
   * [1673. Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/)
+
+<!--  
+  easy
+  136	Single Number
+  349. Intersection of Two Arrays
+  448	Find All Numbers Disappeared in an Array
+  905. Sort Array By Parity
+-->
 
 ### Queue/Stack
 * Easy:
@@ -197,10 +200,12 @@ Hint: how many possible ways.
   * [382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)
   * [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
   * [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
+* Hard:
+  * [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+
 <!-- 
 [21.	Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)
-[160.	Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) 
--->
+[160.	Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) -->
 <!--
 83 Remove Duplicates from Sorted List -->
 <!--
@@ -210,8 +215,6 @@ Hint: how many possible ways.
   * 328.	Odd Even Linked List
   * 143. Reorder List
   -->
-* Hard:
-  * [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 
 ### Hash table
 * Easy:
