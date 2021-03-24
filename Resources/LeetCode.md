@@ -51,19 +51,19 @@ Hint: in-place
 * Hard:
   * [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)
 
+### Sliding Window
+* Mid:
+  * [3.	Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+  * [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
+  * [395. Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)
 <!-- * [283.	Move Zeroes]
 [443. String Compression]
-* Mid:
-Sliding Window:
-* Mid:
-  * 209. Minimum Size Subarray Sum
-  * 3\.	Longest Substring Without Repeating Characters 
-  * [395. Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)
   -->
 
 ### Dynamic Programming
 Hint: how many possible ways.
 * Easy:
+  * [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
   * [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs)  
   * [118.	Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)
   * [198.	House Robber](https://leetcode.com/problems/house-robber)
@@ -76,6 +76,7 @@ Hint: how many possible ways.
   * [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
   * [91. Decode Ways](https://leetcode.com/problems/decode-ways/)
   * [413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)
+  * [376. Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)
   <!-- 152. Maximum Product Subarray -->
 * Hard:
   * [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/solution/)
@@ -106,6 +107,7 @@ Hint: how many possible ways.
   * [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
   * [948. Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)
   * [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)
+  * [870. Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/)
   
 ### Breadth/Depth-First Search
 * [1306. Jump Game III](https://leetcode.com/problems/jump-game-iii/)
@@ -116,6 +118,7 @@ Hint: how many possible ways.
 * [784. Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)
 * [1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)
 * [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)
+* [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)
 
 ### Backtracking
 * Easy:
@@ -218,6 +221,7 @@ Hint: how many possible ways.
 
 ### Hash table
 * Easy:
+  * [706. Design HashMap](https://leetcode.com/problems/design-hashmap/)
   * [290. Word Pattern](https://leetcode.com/problems/word-pattern/)
   * [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)
 * Mid:
@@ -225,6 +229,8 @@ Hint: how many possible ways.
   * [187. Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)
   * [1010. Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)
   * [454. 4Sum II](https://leetcode.com/problems/4sum-ii/)
+  * [966. Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/)
+  * [1396. Design Underground System](https://leetcode.com/problems/design-underground-system/)
 
 ### Tree
 * Easy:
@@ -334,6 +340,7 @@ Mid:
   * [1492. The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/)
   * [754. Reach a Number](https://leetcode.com/problems/reach-a-number/)
   * [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+  * [869. Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/)
 <!--
 412.	Fizz Buzz
 258. Add Digits
@@ -395,6 +402,8 @@ Mid:
 * [910. Smallest Range II]
 * [1680. Concatenation of Consecutive Binary Numbers]
 * [1663. Smallest String With A Given Numeric Value]
+* [923. 3Sum With Multiplicity]
+* [12. Integer to Roman]
 
 ---
 ## Tier V: To Do List
