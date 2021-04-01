@@ -20,6 +20,8 @@
 
 
 ### Info
+* https://gamesjobs.live/job-map/
+* https://gamecompanies.com/map
 * https://www.gamedevmap.com/
 * https://www.gamedevstudios.com/
 * https://intogames.org/careers
@@ -31,8 +33,10 @@
 * https://docs.google.com/spreadsheets/d/1jUxrLJf9xJVuj55dCr0-DTEkIKebROdABDMC-tdw-yM/edit?usp=sharing
 
 ### Events
+* https://gamesjobs.live/
 * https://intogames.org/opportunities
 * https://gradsingames.com
+* https://tranzfuser.com/
 * https://www.gamedev.london
 * https://ukie.org.uk
 * https://gamesmap.uk/
@@ -64,7 +68,8 @@
 ### Organisations
 * https://www.gamesaid.org
 * https://www.everyonecan.org.uk
-
+* https://www.girlsmakegames.com/
+* https://www.womeningames.org/
 
 ## Graphics
 
