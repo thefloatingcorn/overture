@@ -96,6 +96,7 @@ Hint: how many possible ways.
 * [148. Sort List](https://leetcode.com/problems/sort-list/)
 * [395. Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)
 * [218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)
+* [856. Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)
 
 ### Greedy
 * Easy:
@@ -186,6 +187,7 @@ Hint: how many possible ways.
   * [394. Decode String](https://leetcode.com/problems/decode-string/)
   * [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)
   * [71. Simplify Path](https://leetcode.com/problems/simplify-path/)
+  * [1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
 * Deque:
   * [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
   * [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
@@ -404,6 +406,9 @@ Mid:
 * [1663. Smallest String With A Given Numeric Value]
 * [923. 3Sum With Multiplicity]
 * [12. Integer to Roman]
+* [991. Broken Calculator]
+* [524. Longest Word in Dictionary through Deleting]
+* [240. Search a 2D Matrix II]
 
 ---
 ## Tier V: To Do List
