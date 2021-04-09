@@ -409,6 +409,11 @@ Mid:
 * [991. Broken Calculator]
 * [524. Longest Word in Dictionary through Deleting]
 * [240. Search a 2D Matrix II]
+* [423. Reconstruct Original Digits from English]
+* [775. Global and Local Inversions]
+* [916. Word Subsets]
+* [953. Verifying an Alien Dictionary]
+* [1551. Minimum Operations to Make Array Equal]
 
 ---
 ## Tier V: To Do List
