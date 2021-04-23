@@ -414,7 +414,11 @@ Mid:
 * [916. Word Subsets]
 * [953. Verifying an Alien Dictionary]
 * [1551. Minimum Operations to Make Array Equal]
-
+* [667. Beautiful Arrangement II]
+* [341. Flatten Nested List Iterator]
+* [1074. Number of Submatrices That Sum to Target]
+* [377. Combination Sum IV]
+* [554. Brick Wall]
 ---
 ## Tier V: To Do List
 * InOrderEasyOnly@: 371
