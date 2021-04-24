@@ -12,6 +12,9 @@ https://www.khanacademy.org/computing/computer-science/algorithms/sorting-algori
 ### Insertion sort
 <!-- doing extra swaps -->
 
+### Bubble sort
+KEY: swap two adjacent elements if the former one is larger (or smaller) than the latter one.
+
 ### Quick sort
 https://www.tutorialspoint.com/data_structures_algorithms/quick_sort_algorithm.htm
 1. Make the left-most index value pivot.
