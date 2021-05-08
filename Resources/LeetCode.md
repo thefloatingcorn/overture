@@ -77,6 +77,12 @@ Hint: how many possible ways.
   * [91. Decode Ways](https://leetcode.com/problems/decode-ways/)
   * [413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)
   * [376. Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)
+  * [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/)
+  * [120. Triangle](https://leetcode.com/problems/triangle/)
+  * [474. Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)
+  * [583. Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/)
+  * [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
+
   <!-- 152. Maximum Product Subarray -->
 * Hard:
   * [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/solution/)
