@@ -17,13 +17,15 @@
 * https://aswift.com/
 * https://gamedevjobs.io/
 * https://gracklehq.com/
-
+* https://www.pocketgamer.biz/jobs/
+* https://studiovision.games/
+* https://hitmarker.net/
 
 ### Info
-* https://gamesjobs.live/job-map/
+* https://gamesjobs.live/job-map
 * https://gamecompanies.com/map
-* https://www.gamedevmap.com/
-* https://www.gamedevstudios.com/
+* https://www.gamedevmap.com
+* https://www.gamedevstudios.com
 * https://intogames.org/careers
 * https://en.wikipedia.org/wiki/Video_game_programmer
 * https://www.prospects.ac.uk/job-profiles/game-developer
@@ -31,6 +33,8 @@
 * https://docs.google.com/document/d/1H34_z043mJrLahXw7fCgwf5w4ZWyrB2GBE9XAXufjmQ/preview 
 * https://docs.google.com/document/d/1H34_z043mJrLahXw7fCgwf5w4ZWyrB2GBE9XAXufjmQ/edit
 * https://docs.google.com/spreadsheets/d/1jUxrLJf9xJVuj55dCr0-DTEkIKebROdABDMC-tdw-yM/edit?usp=sharing
+* https://www.giantbomb.com/companies
+* https://www.gameindustrycareerguide.com
 
 ### Events
 * https://gamesjobs.live/
@@ -64,15 +68,17 @@
 * https://www.mcvuk.com
 * https://toucharcade.com
 * http://www.gamesindustry.biz
+* https://tiga.org/
 
 ### Organisations
 * https://www.gamesaid.org
 * https://www.everyonecan.org.uk
-* https://www.girlsmakegames.com/
-* https://www.womeningames.org/
+* https://www.girlsmakegames.com
+* https://www.womeningames.org
+* https://www.limitbreak.co.uk
+* https://www.bameingames.org
 
-## Graphics
-
+### Graphics
 * https://blog.studiominiboss.com/pixelart
 * https://www.spriters-resource.com
 * http://pixelgameart.org/web/
@@ -90,6 +96,23 @@
 * https://lospec.com
 * paint.net
 * Asset Forge
+
+
+## Articles
+
+* https://www.packtpub.com/gb/game-development/beginning-c-20-game-programming-second-edition
+* https://transverseaudio.com/posts/best-free-chiptune-vst-synths
+* https://ninichimusic.com/blog/10-crowdfunding-platforms-to-consider-for-indie-projects
+
+### Career
+* https://www.everquest.com/news/get-to-know-your-dev-lmclaurin
+* https://www.prospects.ac.uk/jobs-and-work-experience/job-sectors/information-technology/video-game-careers
+* https://www.gamesindustry.biz/articles/2020-11-02-how-to-break-into-the-industry-from-a-working-class-background
+* https://www.gamesindustry.biz/articles/2019-04-11-revealed-the-most-successful-uk-game-developers
+* https://www.theguardian.com/technology/2014/mar/20/how-to-get-into-the-games-industry-an-insiders-guide
+* https://insomniac.games/how-i-got-into-the-games-industry
+* https://www.studiogobo.com/our-news/breaking-into_games
+* https://www.studiogobo.com/our-news/writing-a-cv-for-the-games-industry
 
 
 ## Unity Engine
@@ -162,13 +185,6 @@
 ### Art
 * https://opengameart.org
 * https://freesound.org
-
-### Articles
-* https://www.gamesindustry.biz/articles/2019-04-11-revealed-the-most-successful-uk-game-developers
-* https://www.packtpub.com/gb/game-development/beginning-c-20-game-programming-second-edition
-* https://transverseaudio.com/posts/best-free-chiptune-vst-synths
-* https://ninichimusic.com/blog/10-crowdfunding-platforms-to-consider-for-indie-projects
-* https://www.theguardian.com/technology/2014/mar/20/how-to-get-into-the-games-industry-an-insiders-guide
 
 ### Videos
 * https://pixeland.io/blog/recommended-game-development-channels-on-youtube
