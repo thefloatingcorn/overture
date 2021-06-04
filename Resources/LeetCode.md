@@ -240,16 +240,19 @@ Hint: how many possible ways.
   * [966. Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/)
   * [1396. Design Underground System](https://leetcode.com/problems/design-underground-system/)
 
+
 ### Tree
 * Easy:
   * [104.	Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)
   * [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
   * [101.	Symmetric Tree](https://leetcode.com/problems/symmetric-tree)
   * [226.	Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)
+  * [589. N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)
   <!-- 1022. Sum of Root To Leaf Binary Numbers -->
 * Mid:
   * [1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)
   * [310. Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)
+  * [623. Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)
 
 * Binary Tree:
   * Traversal: 94 Inorder, 102 Level Order, 144 Preorder, 145 Postorder, 987 Vertical
@@ -258,6 +261,14 @@ Hint: how many possible ways.
   * [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)  
   * [1457. Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)
   * [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
+  * [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+  * [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
+  * [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
+  * [823. Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/)
+  * [971. Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/)
+
+
+
 * BST:
   * [897. Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)
   * [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
@@ -271,6 +282,8 @@ Hint: how many possible ways.
   * [173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)
   * [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
   * [669. Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)
+  * [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)
+
   
 <!--
 *257. Binary Tree Paths*
