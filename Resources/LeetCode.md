@@ -438,6 +438,10 @@ Mid:
 * [1074. Number of Submatrices That Sum to Target]
 * [377. Combination Sum IV]
 * [554. Brick Wall]
+* [65. Valid Number]
+* [462. Minimum Moves to Equal Array Elements II]
+* [816. Ambiguous Coordinates]
+* [1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts]
 ---
 ## Tier V: To Do List
 * InOrderEasyOnly@: 371
