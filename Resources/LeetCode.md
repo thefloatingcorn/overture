@@ -67,6 +67,7 @@ Hint: how many possible ways.
   * [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs)  
   * [118.	Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)
   * [198.	House Robber](https://leetcode.com/problems/house-robber)
+  * [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
 * Mid:
   * [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
   * [62. Unique Paths](https://leetcode.com/problems/unique-paths)
@@ -82,13 +83,19 @@ Hint: how many possible ways.
   * [474. Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)
   * [583. Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/)
   * [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
-
+  * [97. Interleaving String](https://leetcode.com/problems/interleaving-string/)
+  * [1048. Longest String Chain](https://leetcode.com/problems/longest-string-chain/)
+  * [1696. Jump Game VI](https://leetcode.com/problems/jump-game-vi/)
+  * [1690. Stone Game VII](https://leetcode.com/problems/stone-game-vii/)
   <!-- 152. Maximum Product Subarray -->
 * Hard:
   * [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/solution/)
   * [1510. Stone Game IV](https://leetcode.com/problems/stone-game-iv/)
   * [902. Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/)
   * [1463. Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/)
+  * [943. Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/)
+  * [968. Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/)
+
 <!-- 204. Count Primes -->
 <!-- 119 Pascal's Triangle II-->
 <!-- 674. Longest Continuous Increasing Subsequence -->
