@@ -46,6 +46,7 @@
 * https://gamesmap.uk/
 * http://games.london
 * https://nowplaythis.net
+* https://gamesambassadors.org.uk
 
 ### Jams
 * https://itch.io/jams
