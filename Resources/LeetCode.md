@@ -140,9 +140,17 @@ Hint: how many possible ways.
   * [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)
   * [980. Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)
 * Mid:
+  * [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+  * [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
   * [39. Combination Sum](https://leetcode.com/problems/combination-sum/)
   * [47. Permutations II](https://leetcode.com/problems/permutations-ii/)
   * [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
+  * [90. Subsets II](https://leetcode.com/problems/subsets-ii/)
+* Hard:
+  * [51. N-Queens](https://leetcode.com/problems/n-queens/)
+  * [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/)
+  * [126. Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)
+  * [1354. Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/)
 
 ### One-Pass
 * Easy:
